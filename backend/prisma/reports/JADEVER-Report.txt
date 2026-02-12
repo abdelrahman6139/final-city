@@ -1,0 +1,1225 @@
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+JADEVER - COMPREHENSIVE DATA REPORT
+Generated: 2/12/2026, 7:53:12 AM
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📊 SUMMARY
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Total Rows Processed:                           52
+✅ Successfully Inserted:                        0
+❌ Insertion Errors:                             52
+❌ Skipped (No Name):                            0
+❌ Removed (Duplicate Codes in Excel):           0 products
+⭐ Auto-Generated Codes:                         0 products
+⭐ Barcodes Set to NULL (Duplicate in Excel):    0 products
+⭐ Barcodes Auto-Generated (Empty in Excel):     15 products
+⚠️  Barcodes Modified (Cross-Brand Conflict):    52 products (added DUPL suffix)
+📁 Empty ItemTypes Created:                      41
+
+📐 CALCULATION:
+  52 (total rows)
+  - 0 (no name)
+  - 0 (duplicate codes removed)
+  ───────────
+  = 52 (expected to insert)
+  - 52 (insertion errors)
+  ───────────
+  = 0 (actually inserted)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PRODUCT COUNTS BY HIERARCHY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📦 CATEGORIES:
+  JADEVER: 52 products
+
+📂 SUBCATEGORIES:
+  JADEVER > كهرباء: 7 products
+  JADEVER > يدوي: 29 products
+  JADEVER > بطاررية: 4 products
+  JADEVER > جاردن: 4 products
+  JADEVER > وحدات قياس: 7 products
+  JADEVER > هواء: 1 products
+
+📁 ITEM TYPES (All):
+  JADEVER > يدوي > شاكوش ومطرقة: 5 products
+  JADEVER > يدوي > شنط عده: 5 products
+  JADEVER > يدوي > ادوات سيارات: 5 products
+  JADEVER > يدوي > اطقم الن وبيبه: 4 products
+  JADEVER > يدوي > بنس كماشة فرنساوي انجليزي: 3 products
+  JADEVER > بطاررية > شنيور وهيلتي ودريل: 3 products
+  JADEVER > وحدات قياس > ميزان ليزر: 3 products
+  JADEVER > يدوي > مفكات: 2 products
+  JADEVER > يدوي > لقم ويد سيستم: 2 products
+  JADEVER > جاردن > ادوات زراعة: 2 products
+  JADEVER > وحدات قياس > ميزان مياه: 2 products
+  JADEVER > كهرباء > وهيلتي: 1 products
+  JADEVER > كهرباء > بلاور: 1 products
+  JADEVER > كهرباء > تسخين هوت جن: 1 products
+  JADEVER > كهرباء > راوتر: 1 products
+  JADEVER > كهرباء > صنية: 1 products
+  JADEVER > كهرباء > ماكن لحام  قصدير: 1 products
+  JADEVER > كهرباء > ماكن لحام حديد: 1 products
+  JADEVER > يدوي > ماكن سيراميك: 1 products
+  JADEVER > يدوي > منشار خشابي وحدادي: 1 products
+  JADEVER > يدوي > مفاتيح: 1 products
+  JADEVER > بطاررية > صاروخ: 1 products
+  JADEVER > جاردن > خراطيم: 1 products
+  JADEVER > جاردن > مقصات زرع: 1 products
+  JADEVER > وحدات قياس > امتار يدوي: 1 products
+  JADEVER > وحدات قياس > امتار ليزر: 1 products
+  JADEVER > هواء > دهانات: 1 products
+  JADEVER > كهرباء > شنيور: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > دهانات: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > صاروخ: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > اركت: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > ديسك: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > فارة: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > صنفرة: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > ماكن جلخ: 0 products ⭐ EMPTY
+  JADEVER > كهرباء > ماكن لحام  بولي: 0 products ⭐ EMPTY
+  JADEVER > يدوي > اطقم عده: 0 products ⭐ EMPTY
+  JADEVER > يدوي > قمطة وزرجينة ومنجلة: 0 products ⭐ EMPTY
+  JADEVER > يدوي > اجنة ومسمار يدوي: 0 products ⭐ EMPTY
+  JADEVER > يدوي > مسدس سليكون: 0 products ⭐ EMPTY
+  JADEVER > يدوي > مسدس شمع: 0 products ⭐ EMPTY
+  JADEVER > يدوي > قطرات: 0 products ⭐ EMPTY
+  JADEVER > يدوي > بوكليز: 0 products ⭐ EMPTY
+  JADEVER > يدوي > جوانتي: 0 products ⭐ EMPTY
+  JADEVER > يدوي > نظارت: 0 products ⭐ EMPTY
+  JADEVER > يدوي > ازميل: 0 products ⭐ EMPTY
+  JADEVER > يدوي > مقصات: 0 products ⭐ EMPTY
+  JADEVER > يدوي > دباسة خشب: 0 products ⭐ EMPTY
+  JADEVER > يدوي > ادوات دهانات: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > بنط: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > قطع غيار: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > صنية والماظة: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > سلاح اركت: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > احجار: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > صنفرة وادوات ماكن لحام: 0 products ⭐ EMPTY
+  JADEVER > اكسسوارات > فرش: 0 products ⭐ EMPTY
+  JADEVER > بطاررية > اطقم كومبو: 0 products ⭐ EMPTY
+  JADEVER > بطاررية > دهانات: 0 products ⭐ EMPTY
+  JADEVER > بطاررية > بلاور وتسخين: 0 products ⭐ EMPTY
+  JADEVER > بطاررية > كشافات: 0 products ⭐ EMPTY
+  JADEVER > بطاررية > صنية: 0 products ⭐ EMPTY
+  JADEVER > جاردن > رشاشات: 0 products ⭐ EMPTY
+  JADEVER > جاردن > ماكن قص نجيلة: 0 products ⭐ EMPTY
+  JADEVER > جاردن > ماكن غسيل: 0 products ⭐ EMPTY
+  JADEVER > جاردن > مناشير زراعية: 0 products ⭐ EMPTY
+  JADEVER > وحدات قياس > زاوية علام: 0 products ⭐ EMPTY
+  JADEVER > هواء > دباسات: 0 products ⭐ EMPTY
+  JADEVER > هواء > دريل: 0 products ⭐ EMPTY
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ EMPTY ITEM TYPES CREATED - 41
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These ItemTypes were found in Excel but have NO products.
+They were created in the database structure.
+
+1. JADEVER > كهرباء > شنيور
+2. JADEVER > كهرباء > دهانات
+3. JADEVER > كهرباء > صاروخ
+4. JADEVER > كهرباء > اركت
+5. JADEVER > كهرباء > ديسك
+6. JADEVER > كهرباء > فارة
+7. JADEVER > كهرباء > صنفرة
+8. JADEVER > كهرباء > ماكن جلخ
+9. JADEVER > كهرباء > ماكن لحام  بولي
+10. JADEVER > يدوي > اطقم عده
+11. JADEVER > يدوي > قمطة وزرجينة ومنجلة
+12. JADEVER > يدوي > اجنة ومسمار يدوي
+13. JADEVER > يدوي > مسدس سليكون
+14. JADEVER > يدوي > مسدس شمع
+15. JADEVER > يدوي > قطرات
+16. JADEVER > يدوي > بوكليز
+17. JADEVER > يدوي > جوانتي
+18. JADEVER > يدوي > نظارت
+19. JADEVER > يدوي > ازميل
+20. JADEVER > يدوي > مقصات
+21. JADEVER > يدوي > دباسة خشب
+22. JADEVER > يدوي > ادوات دهانات
+23. JADEVER > اكسسوارات > بنط
+24. JADEVER > اكسسوارات > قطع غيار
+25. JADEVER > اكسسوارات > صنية والماظة
+26. JADEVER > اكسسوارات > سلاح اركت
+27. JADEVER > اكسسوارات > احجار
+28. JADEVER > اكسسوارات > صنفرة وادوات ماكن لحام
+29. JADEVER > اكسسوارات > فرش
+30. JADEVER > بطاررية > اطقم كومبو
+31. JADEVER > بطاررية > دهانات
+32. JADEVER > بطاررية > بلاور وتسخين
+33. JADEVER > بطاررية > كشافات
+34. JADEVER > بطاررية > صنية
+35. JADEVER > جاردن > رشاشات
+36. JADEVER > جاردن > ماكن قص نجيلة
+37. JADEVER > جاردن > ماكن غسيل
+38. JADEVER > جاردن > مناشير زراعية
+39. JADEVER > وحدات قياس > زاوية علام
+40. JADEVER > هواء > دباسات
+41. JADEVER > هواء > دريل
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+MISSING FIELDS SUMMARY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ Products with AUTO-GENERATED CODE:             2
+⭐ Products with AUTO-GENERATED BARCODE:          15
+ℹ️  Products with ZERO quantity:                  10
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+❌ INSERTION ERRORS - 52 PRODUCTS FAILED TO INSERT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products passed validation but failed during database insertion.
+
+1. Row 6: شاكوش تكسير 1600 وات 14 كيلو
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDB1D80
+  Barcode: NULL
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+2. Row 8: بلاور 400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAB15401
+  Barcode: 6942210209627
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+3. Row 10: مسدس تسخين 1600وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHG1516
+  Barcode: 6942210209955
+  Location: كهرباء / تسخين هوت جن
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+4. Row 15: راوتر 500وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLT155001
+  Barcode: 6942210211705
+  Location: كهرباء / راوتر
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+5. Row 17: منشار صينيه 7.وريع 1200 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCW1512001
+  Barcode: NULL
+  Location: كهرباء / صنية
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+6. Row 23: مسدس لحام قصدير 60وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDL5606
+  Barcode: 6942210213457
+  Location: كهرباء / ماكن لحام  قصدير
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+7. Row 26: وش لحام اتوماتيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDWH2501
+  Barcode: NULL
+  Location: كهرباء / ماكن لحام حديد
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+8. Row 29: طقم مفك 6قطع يد بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSS2206
+  Barcode: NULL
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+9. Row 30: طقم2 ﻣﻔﻚ واﺣﺪ ﻟﻮن يد بلاستك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSS2302
+  Barcode: 6942210209085
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+10. Row 32: 60 سراميك تقطيع ماكينه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTR1506
+  Barcode: NULL
+  Location: يدوي / ماكن سيراميك
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+11. Row 34: طقم لقم 1/2 بوصة باليد 12قطعة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDST2212
+  Barcode: 6942210210098
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+12. Row 35: يد سيستيم 1/2 بوصه 45 سنه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDRW1212
+  Barcode: 6942210210081
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+13. Row 37: طقم مفتاح فرنساوي 6\8\10\12
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAW174K
+  Barcode: 6942210217752
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+14. Row 38: بنسه كلابه 10"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLP1110
+  Barcode: NULL
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+15. Row 39: بنسة 8 " متعددة خدمة شاقة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDPL778
+  Barcode: 6923736796693
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+16. Row 42: مطرقه 220 جرام كاوتش فايبر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHM7301
+  Barcode: NULL
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+17. Row 43: ﻣﻄﺮﻗﻪ 1.5 ﻛﻴﻠﻮ ﺑﻨﺎرﻳﺞ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB2315
+  Barcode: 6942210202628
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+18. Row 44: ﻣﻄﺮﻗﻪ 2 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB2320
+  Barcode: 6942210202635
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+19. Row 45: شاكوش500 ﺟﺮام ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB1305
+  Barcode: 6942210202581
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+20. Row 46: شاكوش 1 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB1310
+  Barcode: 6942210202598
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+21. Row 48: النكيه مطواه مسدس 8ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK1281
+  Barcode: 6942210212870
+  Location: يدوي / اطقم الن وبيبه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+22. Row 49: طقم الانكيه طويل 9 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK2291
+  Barcode: 6942210215123
+  Location: يدوي / اطقم الن وبيبه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+23. Row 50: طقم الانكيه توركس طويل 9 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK3291
+  Barcode: 6942210210074
+  Location: يدوي / اطقم الن وبيبه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+24. Row 51: من 8مم14-ممL طقم بيبه 5 ق حرف
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTH4205
+  Barcode: 6942210203854
+  Location: يدوي / اطقم الن وبيبه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+25. Row 53: شنطة بلاستك 19 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1319
+  Barcode: 6942210216601
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+26. Row 54: شنطة بلاستك 16 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1316
+  Barcode: 6942210213983
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+27. Row 55: شنطة بلاستك 13 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1313
+  Barcode: 6942210212924
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+28. Row 56: طقم شنطة عدة بلاستيك 3 قطع ( 13.16)
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB2103
+  Barcode: 6942210217356
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+29. Row 57: شنطه 16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTG3116
+  Barcode: NULL
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+30. Row 63: منشار جبس بورد 12"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHW6G12
+  Barcode: 6942210211170
+  Location: يدوي / منشار خشابي وحدادي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+31. Row 66: طقم مفتاح بلدي مشرشر 8 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSP1208
+  Barcode: 6942210203878
+  Location: يدوي / مفاتيح
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+32. Row 71: باور بنك لبطاريه السياره 600 امبير
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLY1512
+  Barcode: NULL
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+33. Row 72: باور بنك بطاريه 400
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLY1508
+  Barcode: NULL
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+34. Row 73: كوريك تمساح2 طن+شنطة BMCجديد
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDH 25021
+  Barcode: 6923736797645
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+35. Row 74: مكنسه بطارية مكنسة Type C امبير 2000 بطارية
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLV0801
+  Barcode: 6923736797034
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+36. Row 75: منفاخ سياره 8 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAAM572
+  Barcode: NULL
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+37. Row 91: شنيور 12Vبطاريه يدون شاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDS510
+  Barcode: NULL
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+38. Row 92: شنيور 12 فولت 1 بطاريه بدون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDS520
+  Barcode: 6942210214607
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+39. Row 93: شنيور 20 فولت دقاق +بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDP521
+  Barcode: NULL
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+40. Row 98: صاروخ براشيلس 4.5 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLAP5421
+  Barcode: 6937541206445
+  Location: بطاررية / صاروخ
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+41. Row 103: خرطوم 20 ﻣﺘﺮ 1/2 ﺑﻮﺻﺔ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDYP1E20
+  Barcode: 6923736797089
+  Location: جاردن / خراطيم
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+42. Row 105: مقص اسوار يد معدن مقاس 22
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDPR2301
+  Barcode: 6942431495663
+  Location: جاردن / مقصات زرع
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+43. Row 107: وصلات ري 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDQC2E33
+  Barcode: NULL
+  Location: جاردن / ادوات زراعة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+44. Row 108: خرطوم مياه 15 متر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDVZ1515
+  Barcode: NULL
+  Location: جاردن / ادوات زراعة
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+45. Row 114: متر قياس 8 متر كاوتش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMT1240
+  Barcode: 6942210208156
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+46. Row 116: متر ليزر 100
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDDL1520
+  Barcode: 6942431497858
+  Location: وحدات قياس / امتار ليزر
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+47. Row 118: ميزان مياه 2 عين 100سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSL2G100
+  Barcode: 6942210204905
+  Location: وحدات قياس / ميزان مياه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+48. Row 119: ميزان مياه 2 عين 30 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSL2G30
+  Barcode: 6942210201461
+  Location: وحدات قياس / ميزان مياه
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+49. Row 121: حامل ميزان ليزر 1.10
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDL9301
+  Barcode: 6942210218087
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+50. Row 122: ميزان مطبخ الكتروني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDKE1502
+  Barcode: 6942431499395
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+51. Row 123: ميزان الكتروني 30 كيلو
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDEC1503
+  Barcode: 6942431492112
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+52. Row 129: مسدس جاز غسيل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDGA3575
+  Barcode: 26942210214120
+  Location: هواء / دهانات
+  ❌ ERROR: Code already exists in JADEVER
+  ⚠️  CONFLICT WITH: JADEVER brand (same code already exists)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ CROSS-BRAND BARCODE CONFLICTS - 52 FOUND
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products have barcodes that already exist in OTHER brands.
+The barcode was MODIFIED by adding "DUPL" suffix.
+
+1. Row 6: شاكوش تكسير 1600 وات 14 كيلو
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDB1D80
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شاكوش تكسير 1600 وات 14 كيلو
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+2. Row 8: بلاور 400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAB15401
+  Original Barcode: 6942210209627
+  Modified Barcode: 6942210209627DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: بلاور 400 وات
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+3. Row 10: مسدس تسخين 1600وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHG1516
+  Original Barcode: 6942210209955
+  Modified Barcode: 6942210209955DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مسدس تسخين 1600وات
+  Location: كهرباء / تسخين هوت جن
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+4. Row 15: راوتر 500وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLT155001
+  Original Barcode: 6942210211705
+  Modified Barcode: 6942210211705DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: راوتر 500وات
+  Location: كهرباء / راوتر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+5. Row 17: منشار صينيه 7.وريع 1200 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCW1512001
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL1DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: منشار صينيه 7.وريع 1200 وات
+  Location: كهرباء / صنية
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+6. Row 23: مسدس لحام قصدير 60وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDL5606
+  Original Barcode: 6942210213457
+  Modified Barcode: 6942210213457DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مسدس لحام قصدير 60وات
+  Location: كهرباء / ماكن لحام  قصدير
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+7. Row 26: وش لحام اتوماتيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDWH2501
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL2DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: وش لحام اتوماتيك
+  Location: كهرباء / ماكن لحام حديد
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+8. Row 29: طقم مفك 6قطع يد بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSS2206
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL3DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم مفك 6قطع يد بلاستيك
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+9. Row 30: طقم2 ﻣﻔﻚ واﺣﺪ ﻟﻮن يد بلاستك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSS2302
+  Original Barcode: 6942210209085
+  Modified Barcode: 6942210209085DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم2 ﻣﻔﻚ واﺣﺪ ﻟﻮن يد بلاستك
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+10. Row 32: 60 سراميك تقطيع ماكينه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTR1506
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL4DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: 60 سراميك تقطيع ماكينه
+  Location: يدوي / ماكن سيراميك
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+11. Row 34: طقم لقم 1/2 بوصة باليد 12قطعة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDST2212
+  Original Barcode: 6942210210098
+  Modified Barcode: 6942210210098DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم لقم 1/2 بوصة باليد 12قطعة
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+12. Row 35: يد سيستيم 1/2 بوصه 45 سنه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDRW1212
+  Original Barcode: 6942210210081
+  Modified Barcode: 6942210210081DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: يد سيستيم 1/2 بوصه 45 سنه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+13. Row 37: طقم مفتاح فرنساوي 6\8\10\12
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAW174K
+  Original Barcode: 6942210217752
+  Modified Barcode: 6942210217752DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم مفتاح فرنساوي 6\8\10\12
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+14. Row 38: بنسه كلابه 10"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLP1110
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL5DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: بنسه كلابه 10"
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+15. Row 39: بنسة 8 " متعددة خدمة شاقة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDPL778
+  Original Barcode: 6923736796693
+  Modified Barcode: 6923736796693DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: بنسة 8 " متعددة خدمة شاقة
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+16. Row 42: مطرقه 220 جرام كاوتش فايبر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHM7301
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL6DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مطرقه 220 جرام كاوتش فايبر
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+17. Row 43: ﻣﻄﺮﻗﻪ 1.5 ﻛﻴﻠﻮ ﺑﻨﺎرﻳﺞ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB2315
+  Original Barcode: 6942210202628
+  Modified Barcode: 6942210202628DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ﻣﻄﺮﻗﻪ 1.5 ﻛﻴﻠﻮ ﺑﻨﺎرﻳﺞ ﻳﺪ ﺧﺸﺐ
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+18. Row 44: ﻣﻄﺮﻗﻪ 2 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB2320
+  Original Barcode: 6942210202635
+  Modified Barcode: 6942210202635DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ﻣﻄﺮﻗﻪ 2 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+19. Row 45: شاكوش500 ﺟﺮام ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB1305
+  Original Barcode: 6942210202581
+  Modified Barcode: 6942210202581DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شاكوش500 ﺟﺮام ﻳﺪ ﺧﺸﺐ
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+20. Row 46: شاكوش 1 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMB1310
+  Original Barcode: 6942210202598
+  Modified Barcode: 6942210202598DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شاكوش 1 ﻛﻴﻠﻮ ﻳﺪ ﺧﺸﺐ
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+21. Row 48: النكيه مطواه مسدس 8ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK1281
+  Original Barcode: 6942210212870
+  Modified Barcode: 6942210212870DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: النكيه مطواه مسدس 8ق
+  Location: يدوي / اطقم الن وبيبه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+22. Row 49: طقم الانكيه طويل 9 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK2291
+  Original Barcode: 6942210215123
+  Modified Barcode: 6942210215123DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم الانكيه طويل 9 قطع
+  Location: يدوي / اطقم الن وبيبه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+23. Row 50: طقم الانكيه توركس طويل 9 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHK3291
+  Original Barcode: 6942210210074
+  Modified Barcode: 6942210210074DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم الانكيه توركس طويل 9 قطع
+  Location: يدوي / اطقم الن وبيبه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+24. Row 51: من 8مم14-ممL طقم بيبه 5 ق حرف
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTH4205
+  Original Barcode: 6942210203854
+  Modified Barcode: 6942210203854DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: من 8مم14-ممL طقم بيبه 5 ق حرف
+  Location: يدوي / اطقم الن وبيبه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+25. Row 53: شنطة بلاستك 19 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1319
+  Original Barcode: 6942210216601
+  Modified Barcode: 6942210216601DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنطة بلاستك 19 بوصة
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+26. Row 54: شنطة بلاستك 16 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1316
+  Original Barcode: 6942210213983
+  Modified Barcode: 6942210213983DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنطة بلاستك 16 بوصة
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+27. Row 55: شنطة بلاستك 13 بوصة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB1313
+  Original Barcode: 6942210212924
+  Modified Barcode: 6942210212924DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنطة بلاستك 13 بوصة
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+28. Row 56: طقم شنطة عدة بلاستيك 3 قطع ( 13.16)
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTB2103
+  Original Barcode: 6942210217356
+  Modified Barcode: 6942210217356DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم شنطة عدة بلاستيك 3 قطع ( 13.16)
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+29. Row 57: شنطه 16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDTG3116
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL7DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنطه 16
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+30. Row 63: منشار جبس بورد 12"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDHW6G12
+  Original Barcode: 6942210211170
+  Modified Barcode: 6942210211170DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: منشار جبس بورد 12"
+  Location: يدوي / منشار خشابي وحدادي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+31. Row 66: طقم مفتاح بلدي مشرشر 8 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSP1208
+  Original Barcode: 6942210203878
+  Modified Barcode: 6942210203878DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: طقم مفتاح بلدي مشرشر 8 قطع
+  Location: يدوي / مفاتيح
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+32. Row 71: باور بنك لبطاريه السياره 600 امبير
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLY1512
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL8DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: باور بنك لبطاريه السياره 600 امبير
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+33. Row 72: باور بنك بطاريه 400
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLY1508
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL9DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: باور بنك بطاريه 400
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+34. Row 73: كوريك تمساح2 طن+شنطة BMCجديد
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDH 25021
+  Original Barcode: 6923736797645
+  Modified Barcode: 6923736797645DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: كوريك تمساح2 طن+شنطة BMCجديد
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+35. Row 74: مكنسه بطارية مكنسة Type C امبير 2000 بطارية
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLV0801
+  Original Barcode: 6923736797034
+  Modified Barcode: 6923736797034DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مكنسه بطارية مكنسة Type C امبير 2000 بطارية
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+36. Row 75: منفاخ سياره 8 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDAAM572
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL10DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: منفاخ سياره 8 فولت
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+37. Row 91: شنيور 12Vبطاريه يدون شاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDS510
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL11DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنيور 12Vبطاريه يدون شاحن
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+38. Row 92: شنيور 12 فولت 1 بطاريه بدون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDS520
+  Original Barcode: 6942210214607
+  Modified Barcode: 6942210214607DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنيور 12 فولت 1 بطاريه بدون
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+39. Row 93: شنيور 20 فولت دقاق +بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDCDP521
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL12DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: شنيور 20 فولت دقاق +بطاريه وشاحن
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+40. Row 98: صاروخ براشيلس 4.5 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDLAP5421
+  Original Barcode: 6937541206445
+  Modified Barcode: 6937541206445DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: صاروخ براشيلس 4.5 20 فولت
+  Location: بطاررية / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+41. Row 103: خرطوم 20 ﻣﺘﺮ 1/2 ﺑﻮﺻﺔ
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDYP1E20
+  Original Barcode: 6923736797089
+  Modified Barcode: 6923736797089DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: خرطوم 20 ﻣﺘﺮ 1/2 ﺑﻮﺻﺔ
+  Location: جاردن / خراطيم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+42. Row 105: مقص اسوار يد معدن مقاس 22
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDPR2301
+  Original Barcode: 6942431495663
+  Modified Barcode: 6942431495663DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مقص اسوار يد معدن مقاس 22
+  Location: جاردن / مقصات زرع
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+43. Row 107: وصلات ري 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDQC2E33
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL13DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: وصلات ري 3 قطع
+  Location: جاردن / ادوات زراعة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+44. Row 108: خرطوم مياه 15 متر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDVZ1515
+  Original Barcode: 
+  Modified Barcode: JADEVERDUPL14DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: خرطوم مياه 15 متر
+  Location: جاردن / ادوات زراعة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+45. Row 114: متر قياس 8 متر كاوتش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDMT1240
+  Original Barcode: 6942210208156
+  Modified Barcode: 6942210208156DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: متر قياس 8 متر كاوتش
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+46. Row 116: متر ليزر 100
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDDL1520
+  Original Barcode: 6942431497858
+  Modified Barcode: 6942431497858DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: متر ليزر 100
+  Location: وحدات قياس / امتار ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+47. Row 118: ميزان مياه 2 عين 100سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSL2G100
+  Original Barcode: 6942210204905
+  Modified Barcode: 6942210204905DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ميزان مياه 2 عين 100سم
+  Location: وحدات قياس / ميزان مياه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+48. Row 119: ميزان مياه 2 عين 30 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDSL2G30
+  Original Barcode: 6942210201461
+  Modified Barcode: 6942210201461DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ميزان مياه 2 عين 30 سم
+  Location: وحدات قياس / ميزان مياه
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+49. Row 121: حامل ميزان ليزر 1.10
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDL9301
+  Original Barcode: 6942210218087
+  Modified Barcode: 6942210218087DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: حامل ميزان ليزر 1.10
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+50. Row 122: ميزان مطبخ الكتروني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDKE1502
+  Original Barcode: 6942431499395
+  Modified Barcode: 6942431499395DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ميزان مطبخ الكتروني
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+51. Row 123: ميزان الكتروني 30 كيلو
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDEC1503
+  Original Barcode: 6942431492112
+  Modified Barcode: 6942431492112DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: ميزان الكتروني 30 كيلو
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+52. Row 129: مسدس جاز غسيل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JDGA3575
+  Original Barcode: 26942210214120
+  Modified Barcode: 26942210214120DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: JADEVER brand
+  Conflicting Product: مسدس جاز غسيل
+  Location: هواء / دهانات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ PRODUCTS WITH AUTO-GENERATED BARCODE (15)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products had NO barcode in Excel. Barcode was auto-generated from hierarchy.
+
+1. Row 6: شاكوش تكسير 1600 وات 14 كيلو
+  Code: JDB1D80
+  Generated Barcode: JADEVER
+  Location: كهرباء / وهيلتي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+2. Row 17: منشار صينيه 7.وريع 1200 وات
+  Code: JDCW1512001
+  Generated Barcode: JADEVERDUPL1
+  Location: كهرباء / صنية
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+3. Row 26: وش لحام اتوماتيك
+  Code: JDWH2501
+  Generated Barcode: JADEVERDUPL2
+  Location: كهرباء / ماكن لحام حديد
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+4. Row 29: طقم مفك 6قطع يد بلاستيك
+  Code: JDSS2206
+  Generated Barcode: JADEVERDUPL3
+  Location: يدوي / مفكات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+5. Row 32: 60 سراميك تقطيع ماكينه
+  Code: JDTR1506
+  Generated Barcode: JADEVERDUPL4
+  Location: يدوي / ماكن سيراميك
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+6. Row 38: بنسه كلابه 10"
+  Code: JDLP1110
+  Generated Barcode: JADEVERDUPL5
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+7. Row 42: مطرقه 220 جرام كاوتش فايبر
+  Code: JDHM7301
+  Generated Barcode: JADEVERDUPL6
+  Location: يدوي / شاكوش ومطرقة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+8. Row 57: شنطه 16
+  Code: JDTG3116
+  Generated Barcode: JADEVERDUPL7
+  Location: يدوي / شنط عده
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+9. Row 71: باور بنك لبطاريه السياره 600 امبير
+  Code: JDLY1512
+  Generated Barcode: JADEVERDUPL8
+  Location: يدوي / ادوات سيارات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+10. Row 72: باور بنك بطاريه 400
+  Code: JDLY1508
+  Generated Barcode: JADEVERDUPL9
+  Location: يدوي / ادوات سيارات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+11. Row 75: منفاخ سياره 8 فولت
+  Code: JDAAM572
+  Generated Barcode: JADEVERDUPL10
+  Location: يدوي / ادوات سيارات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+12. Row 91: شنيور 12Vبطاريه يدون شاحن
+  Code: JDCDS510
+  Generated Barcode: JADEVERDUPL11
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+13. Row 93: شنيور 20 فولت دقاق +بطاريه وشاحن
+  Code: JDCDP521
+  Generated Barcode: JADEVERDUPL12
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+14. Row 107: وصلات ري 3 قطع
+  Code: JDQC2E33
+  Generated Barcode: JADEVERDUPL13
+  Location: جاردن / ادوات زراعة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+15. Row 108: خرطوم مياه 15 متر
+  Code: JDVZ1515
+  Generated Barcode: JADEVERDUPL14
+  Location: جاردن / ادوات زراعة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ PRODUCTS WITH MISSING COST (2)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+1. Row 75: منفاخ سياره 8 فولت
+  Code: JDAAM572
+  Location: يدوي / ادوات سيارات
+
+2. Row 107: وصلات ري 3 قطع
+  Code: JDQC2E33
+  Location: جاردن / ادوات زراعة
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+END OF REPORT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════

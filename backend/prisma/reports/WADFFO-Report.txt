@@ -1,0 +1,1407 @@
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+WADFFO - COMPREHENSIVE DATA REPORT
+Generated: 2/12/2026, 7:53:12 AM
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📊 SUMMARY
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Total Rows Processed:                           60
+✅ Successfully Inserted:                        1
+❌ Insertion Errors:                             59
+❌ Skipped (No Name):                            0
+❌ Removed (Duplicate Codes in Excel):           0 products
+⭐ Auto-Generated Codes:                         1 products
+⭐ Barcodes Set to NULL (Duplicate in Excel):    2 products
+⭐ Barcodes Auto-Generated (Empty in Excel):     16 products
+⚠️  Barcodes Modified (Cross-Brand Conflict):    58 products (added DUPL suffix)
+📁 Empty ItemTypes Created:                      43
+
+📐 CALCULATION:
+  60 (total rows)
+  - 0 (no name)
+  - 0 (duplicate codes removed)
+  ───────────
+  = 60 (expected to insert)
+  - 59 (insertion errors)
+  ───────────
+  = 1 (actually inserted)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PRODUCT COUNTS BY HIERARCHY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📦 CATEGORIES:
+  WADFFO: 60 products
+
+📂 SUBCATEGORIES:
+  WADFFO > كهرباء: 2 products
+  WADFFO > يدوي: 38 products
+  WADFFO > اكسسوارات: 17 products
+  WADFFO > بطاررية: 3 products
+
+📁 ITEM TYPES (All):
+  WADFFO > اكسسوارات > بنط: 15 products
+  WADFFO > يدوي > لقم ويد سيستم: 14 products
+  WADFFO > يدوي > بنس: 10 products
+  WADFFO > يدوي > مفكات: 4 products
+  WADFFO > يدوي > شاكوش ومطرقة: 4 products
+  WADFFO > يدوي > قطرات: 3 products
+  WADFFO > يدوي > مفاتيح: 2 products
+  WADFFO > بطاررية > شنيور وهيلتي: 2 products
+  WADFFO > كهرباء > شنيور: 1 products
+  WADFFO > كهرباء > صاروخ: 1 products
+  WADFFO > يدوي > اجنة ومسمار يدوي: 1 products
+  WADFFO > اكسسوارات > صنفرة: 1 products
+  WADFFO > اكسسوارات > فرش: 1 products
+  WADFFO > بطاررية > بلاور وتسخين: 1 products
+  WADFFO > كهرباء > وهيلتي: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > بلاور: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > تسخين هوت جن: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > اركت: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > راوتر: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > صنية: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > ديسك: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > فارة: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > صنفرة: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > ماكن جلخ: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > ماكن لحام  قصدير: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > ماكن لحام  بولي: 0 products ⭐ EMPTY
+  WADFFO > كهرباء > ماكن لحام حديد: 0 products ⭐ EMPTY
+  WADFFO > يدوي > اطقم عده: 0 products ⭐ EMPTY
+  WADFFO > يدوي > اطقم الن: 0 products ⭐ EMPTY
+  WADFFO > يدوي > شنط عده: 0 products ⭐ EMPTY
+  WADFFO > يدوي > قمطة وزرجينة: 0 products ⭐ EMPTY
+  WADFFO > يدوي > منشار خشابي وحدادي: 0 products ⭐ EMPTY
+  WADFFO > يدوي > بوكليز: 0 products ⭐ EMPTY
+  WADFFO > يدوي > جوانتي: 0 products ⭐ EMPTY
+  WADFFO > يدوي > ادوات سيارات: 0 products ⭐ EMPTY
+  WADFFO > يدوي > ازميل: 0 products ⭐ EMPTY
+  WADFFO > يدوي > مقصات: 0 products ⭐ EMPTY
+  WADFFO > يدوي > دباسة خشب: 0 products ⭐ EMPTY
+  WADFFO > يدوي > ادوات دهانات: 0 products ⭐ EMPTY
+  WADFFO > اكسسوارات > قطع غيار: 0 products ⭐ EMPTY
+  WADFFO > اكسسوارات > صنية والماظة: 0 products ⭐ EMPTY
+  WADFFO > اكسسوارات > احجار: 0 products ⭐ EMPTY
+  WADFFO > بطاررية > صاروخ: 0 products ⭐ EMPTY
+  WADFFO > بطاررية > صنية: 0 products ⭐ EMPTY
+  WADFFO > جاردن > رشاشات: 0 products ⭐ EMPTY
+  WADFFO > جاردن > خراطيم: 0 products ⭐ EMPTY
+  WADFFO > جاردن > مقصات زرع: 0 products ⭐ EMPTY
+  WADFFO > جاردن > ماكن قص نجيلة: 0 products ⭐ EMPTY
+  WADFFO > جاردن > ماكن غسيل: 0 products ⭐ EMPTY
+  WADFFO > جاردن > مناشير زراعية: 0 products ⭐ EMPTY
+  WADFFO > وحدات قياس > امتار يدوي: 0 products ⭐ EMPTY
+  WADFFO > وحدات قياس > امتار ليزر: 0 products ⭐ EMPTY
+  WADFFO > وحدات قياس > ميزان مياه: 0 products ⭐ EMPTY
+  WADFFO > وحدات قياس > ميزان ليزر: 0 products ⭐ EMPTY
+  WADFFO > وحدات قياس > زاوية علام: 0 products ⭐ EMPTY
+  WADFFO > هواء > دباسات: 0 products ⭐ EMPTY
+  WADFFO > هواء > دريل: 0 products ⭐ EMPTY
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ EMPTY ITEM TYPES CREATED - 43
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These ItemTypes were found in Excel but have NO products.
+They were created in the database structure.
+
+1. WADFFO > كهرباء > وهيلتي
+2. WADFFO > كهرباء > بلاور
+3. WADFFO > كهرباء > تسخين هوت جن
+4. WADFFO > كهرباء > اركت
+5. WADFFO > كهرباء > راوتر
+6. WADFFO > كهرباء > صنية
+7. WADFFO > كهرباء > ديسك
+8. WADFFO > كهرباء > فارة
+9. WADFFO > كهرباء > صنفرة
+10. WADFFO > كهرباء > ماكن جلخ
+11. WADFFO > كهرباء > ماكن لحام  قصدير
+12. WADFFO > كهرباء > ماكن لحام  بولي
+13. WADFFO > كهرباء > ماكن لحام حديد
+14. WADFFO > يدوي > اطقم عده
+15. WADFFO > يدوي > اطقم الن
+16. WADFFO > يدوي > شنط عده
+17. WADFFO > يدوي > قمطة وزرجينة
+18. WADFFO > يدوي > منشار خشابي وحدادي
+19. WADFFO > يدوي > بوكليز
+20. WADFFO > يدوي > جوانتي
+21. WADFFO > يدوي > ادوات سيارات
+22. WADFFO > يدوي > ازميل
+23. WADFFO > يدوي > مقصات
+24. WADFFO > يدوي > دباسة خشب
+25. WADFFO > يدوي > ادوات دهانات
+26. WADFFO > اكسسوارات > قطع غيار
+27. WADFFO > اكسسوارات > صنية والماظة
+28. WADFFO > اكسسوارات > احجار
+29. WADFFO > بطاررية > صاروخ
+30. WADFFO > بطاررية > صنية
+31. WADFFO > جاردن > رشاشات
+32. WADFFO > جاردن > خراطيم
+33. WADFFO > جاردن > مقصات زرع
+34. WADFFO > جاردن > ماكن قص نجيلة
+35. WADFFO > جاردن > ماكن غسيل
+36. WADFFO > جاردن > مناشير زراعية
+37. WADFFO > وحدات قياس > امتار يدوي
+38. WADFFO > وحدات قياس > امتار ليزر
+39. WADFFO > وحدات قياس > ميزان مياه
+40. WADFFO > وحدات قياس > ميزان ليزر
+41. WADFFO > وحدات قياس > زاوية علام
+42. WADFFO > هواء > دباسات
+43. WADFFO > هواء > دريل
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+MISSING FIELDS SUMMARY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ Products with AUTO-GENERATED CODE:             8
+⭐ Products with AUTO-GENERATED BARCODE:          16
+ℹ️  Products with ZERO quantity:                  14
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ AUTO-GENERATED CODES - 1 PRODUCTS
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products had NO CODE in Excel. Test codes were auto-generated.
+
+1. Row 40: يدكوريك سيسيتم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Original Code: EMPTY
+  Generated Code: TEST-1770875592299-BSONPC
+  Barcode: 8150980060166
+  Location: يدوي / لقم ويد سيستم
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED CODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+❌ INSERTION ERRORS - 59 PRODUCTS FAILED TO INSERT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products passed validation but failed during database insertion.
+
+1. Row 5: شنيور 650وات عاده ودقاق 13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMD15651
+  Barcode: NULL
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+2. Row 10: صاروخ 9 "2000
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: wag852001
+  Barcode: NULL
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+3. Row 23: طقم مفكات 8 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1408
+  Barcode: 6941786812842
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+4. Row 24: طقم مفك 6قطع كاوتشه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1206
+  Barcode: NULL
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+5. Row 25: طقم مفك 2قطع2 لون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1302
+  Barcode: 6941786812729
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+6. Row 26: طقم مفك 6 ق يد بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS2206
+  Barcode: 6941786810800
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+7. Row 28: طقم لقم 1/4 بوصه 45 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WST4D45
+  Barcode: NULL
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+8. Row 29: لقم تصادميه نص بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMS3217
+  Barcode: 6941786815041
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+9. Row 30: لقمه رباط 2\1 ب 10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1210
+  Barcode: 6941786806599
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+10. Row 31: لقمه رباط 2\1 ب 11مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1211
+  Barcode: 6941786806629
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+11. Row 32: لقمه رباط 2\1 ب 13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1213
+  Barcode: 6941786806681
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+12. Row 33: لقمه رباط 2\1 ب 15مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1215
+  Barcode: 6941786806742
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+13. Row 34: لقمه رباط 2\1 ب 19مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1219
+  Barcode: 6941786806865
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+14. Row 35: لقمه رباط 2\1 ب 21مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1221
+  Barcode: 6941786806926
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+15. Row 36: لقمه رباط 2\1 ب 27مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1227
+  Barcode: 6941786807046
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+16. Row 37: لقمه رباط 2\1 ب 22مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1222
+  Barcode: NULL
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+17. Row 38: لقمه رباط 2\1 ب 30مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1230
+  Barcode: 6941786807077
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+18. Row 39: لقمه رباط 2\1 ب 32مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1232
+  Barcode: 6941786807107
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+19. Row 41: مفتاح عزم 1\2ب 45سن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WRW5212
+  Barcode: 6942431454769
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+20. Row 43: بنسه برشام صاموله
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHR5710
+  Barcode: NULL
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+21. Row 44: مفتاح فرنساوي 8بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WAW1108
+  Barcode: NULL
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+22. Row 45: قشاره ترامل 8.5
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL5685
+  Barcode: 6975085804802
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+23. Row 46: بنسه 7
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL1C07
+  Barcode: NULL
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+24. Row 47: قصافه 6"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL3C06
+  Barcode: 6976057337687
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+25. Row 48: بنسه جاز 10
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL6C10
+  Barcode: 6942123015940
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+26. Row 49: بنسه 8
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL1C08
+  Barcode: 6976057337700
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+27. Row 50: حامل زجاج 2 عين _شفاط 50كجم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WKR1G50
+  Barcode: 6941786816703
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+28. Row 51: بنسه برشام 9.5"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHR1609
+  Barcode: 695085803317
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+29. Row 52: بنسه جاز 8
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL6C08
+  Barcode: 6942123016947
+  Location: يدوي / بنس
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+30. Row 55: مطرقه 1500
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHM2315
+  Barcode: NULL
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+31. Row 56: شاكوش 500 جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm1305
+  Barcode: 6975085800859
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+32. Row 57: شاكوش 300 جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm1303
+  Barcode: NULL
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+33. Row 58: شاكوش خلاعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm33d8
+  Barcode: NULL
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+34. Row 63: اجنه مسمار يدوي 250*16*4
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCC1303
+  Barcode: 6975085801641
+  Location: يدوي / اجنة ومسمار يدوي
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+35. Row 66: كتر 150 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK29189
+  Barcode: NULL
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+36. Row 67: كتر 153مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK39189
+  Barcode: NULL
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+37. Row 68: كتر بلاستيك خفيف
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK2913
+  Barcode: 6942123019412
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+38. Row 70: مفتاح بوجيهات 16مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WTH5116
+  Barcode: 6941786814747
+  Location: يدوي / مفاتيح
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+39. Row 71: مفتاح بوجيهات 21مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WTH5121
+  Barcode: 6941786814778
+  Location: يدوي / مفاتيح
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+40. Row 81: بنطه هلتي 12*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1208
+  Barcode: 6941786802591
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+41. Row 82: بنطه هلتي 10*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1207
+  Barcode: 6941786802560
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+42. Row 83: بنطه هلتي 8*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1206
+  Barcode: 6941786802539
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+43. Row 84: بنطه هلتي 6*110
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1202
+  Barcode: 6941786802416
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+44. Row 85: بنطه فديه 8*120
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMZ1K04
+  Barcode: 6941786803871
+  Location: اكسسوارات / بنط
+  ❌ ERROR: 
+Invalid `prisma.product.create()` invocation in
+C:\Users\GIGABYTE\Desktop\sahllaa\city_tools_edited-final_vol3\city_tools_edited-final_vol3\backend\prisma\seed-all-with-validation.js:395:62
+
+  392 
+  393 // ⭐ If barcode is null, keep it null (no generation)
+  394 
+→ 395 const product = await prisma.product.create(
+Null constraint violation on the fields: (`barcode`)
+
+45. Row 86: بنطه فديه 12*150
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMJ1K12
+  Barcode: 6941786805493
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+46. Row 87: بنطه سمسمه6 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K01
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+47. Row 88: بنطه سمسمه8مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K02
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+48. Row 89: بنطه سمسمه12 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K04
+  Barcode: 6941786804250
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+49. Row 90: بنطه سمسمه10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K03
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+50. Row 91: بنطه معلقه 16مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K16
+  Barcode: 6942431486241
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+51. Row 92: بنطه معلقه 18مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K18
+  Barcode: 6942431483486
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+52. Row 93: بنطه معلقه 20مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K20
+  Barcode: 6942431485817
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+53. Row 94: بنطه معلقه 22مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K22
+  Barcode: 6942431480997
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+54. Row 95: بنطه فديه 6*100
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMJ1K04
+  Barcode: 6941786803871
+  Location: اكسسوارات / بنط
+  ❌ ERROR: 
+Invalid `prisma.product.create()` invocation in
+C:\Users\GIGABYTE\Desktop\sahllaa\city_tools_edited-final_vol3\city_tools_edited-final_vol3\backend\prisma\seed-all-with-validation.js:395:62
+
+  392 
+  393 // ⭐ If barcode is null, keep it null (no generation)
+  394 
+→ 395 const product = await prisma.product.create(
+Null constraint violation on the fields: (`barcode`)
+
+55. Row 100: صنفره مروحيه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WYL2302
+  Barcode: 6941786804366
+  Location: اكسسوارات / صنفرة
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+56. Row 102: فرشة مجدولة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: wce2402
+  Barcode: 6941786809125
+  Location: اكسسوارات / فرش
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+57. Row 105: شنيور بطاريه 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCDP511
+  Barcode: ‎ 6976057336147
+  Location: بطاررية / شنيور وهيلتي
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+58. Row 106: شنيور 12 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCDS510
+  Barcode: 6976057338981
+  Location: بطاررية / شنيور وهيلتي
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+59. Row 108: مسدس شمع 150 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WGL3608
+  Barcode: 6941786820380
+  Location: بطاررية / بلاور وتسخين
+  ❌ ERROR: Code already exists in WADFFO
+  ⚠️  CONFLICT WITH: WADFFO brand (same code already exists)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ CROSS-BRAND BARCODE CONFLICTS - 58 FOUND
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products have barcodes that already exist in OTHER brands.
+The barcode was MODIFIED by adding "DUPL" suffix.
+
+1. Row 5: شنيور 650وات عاده ودقاق 13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMD15651
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شنيور 650وات عاده ودقاق 13مم
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+2. Row 10: صاروخ 9 "2000
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: wag852001
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL1DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: صاروخ 9 "2000
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+3. Row 23: طقم مفكات 8 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1408
+  Original Barcode: 6941786812842
+  Modified Barcode: 6941786812842DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: طقم مفكات 8 قطع
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+4. Row 24: طقم مفك 6قطع كاوتشه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1206
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL2DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: طقم مفك 6قطع كاوتشه
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+5. Row 25: طقم مفك 2قطع2 لون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS1302
+  Original Barcode: 6941786812729
+  Modified Barcode: 6941786812729DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: طقم مفك 2قطع2 لون
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+6. Row 26: طقم مفك 6 ق يد بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSS2206
+  Original Barcode: 6941786810800
+  Modified Barcode: 6941786810800DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: طقم مفك 6 ق يد بلاستيك
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+7. Row 28: طقم لقم 1/4 بوصه 45 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WST4D45
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL3DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: طقم لقم 1/4 بوصه 45 قطعه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+8. Row 29: لقم تصادميه نص بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMS3217
+  Original Barcode: 6941786815041
+  Modified Barcode: 6941786815041DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقم تصادميه نص بوصه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+9. Row 30: لقمه رباط 2\1 ب 10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1210
+  Original Barcode: 6941786806599
+  Modified Barcode: 6941786806599DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 10مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+10. Row 31: لقمه رباط 2\1 ب 11مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1211
+  Original Barcode: 6941786806629
+  Modified Barcode: 6941786806629DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 11مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+11. Row 32: لقمه رباط 2\1 ب 13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1213
+  Original Barcode: 6941786806681
+  Modified Barcode: 6941786806681DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 13مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+12. Row 33: لقمه رباط 2\1 ب 15مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1215
+  Original Barcode: 6941786806742
+  Modified Barcode: 6941786806742DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 15مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+13. Row 34: لقمه رباط 2\1 ب 19مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1219
+  Original Barcode: 6941786806865
+  Modified Barcode: 6941786806865DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 19مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+14. Row 35: لقمه رباط 2\1 ب 21مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1221
+  Original Barcode: 6941786806926
+  Modified Barcode: 6941786806926DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 21مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+15. Row 36: لقمه رباط 2\1 ب 27مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1227
+  Original Barcode: 6941786807046
+  Modified Barcode: 6941786807046DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 27مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+16. Row 37: لقمه رباط 2\1 ب 22مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1222
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL4DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 22مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+17. Row 38: لقمه رباط 2\1 ب 30مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1230
+  Original Barcode: 6941786807077
+  Modified Barcode: 6941786807077DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 30مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+18. Row 39: لقمه رباط 2\1 ب 32مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSC1232
+  Original Barcode: 6941786807107
+  Modified Barcode: 6941786807107DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: لقمه رباط 2\1 ب 32مم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+19. Row 40: يدكوريك سيسيتم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: TEST-1770875592299-BSONPC
+  Original Barcode: 8150980060166
+  Modified Barcode: 8150980060166DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: يدكوريك سيسيتم
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+20. Row 41: مفتاح عزم 1\2ب 45سن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WRW5212
+  Original Barcode: 6942431454769
+  Modified Barcode: 6942431454769DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مفتاح عزم 1\2ب 45سن
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+21. Row 43: بنسه برشام صاموله
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHR5710
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL5DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه برشام صاموله
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+22. Row 44: مفتاح فرنساوي 8بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WAW1108
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL6DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مفتاح فرنساوي 8بوصه
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+23. Row 45: قشاره ترامل 8.5
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL5685
+  Original Barcode: 6975085804802
+  Modified Barcode: 6975085804802DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: قشاره ترامل 8.5
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+24. Row 46: بنسه 7
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL1C07
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL7DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه 7
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+25. Row 47: قصافه 6"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL3C06
+  Original Barcode: 6976057337687
+  Modified Barcode: 6976057337687DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: قصافه 6"
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+26. Row 48: بنسه جاز 10
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL6C10
+  Original Barcode: 6942123015940
+  Modified Barcode: 6942123015940DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه جاز 10
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+27. Row 49: بنسه 8
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL1C08
+  Original Barcode: 6976057337700
+  Modified Barcode: 6976057337700DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه 8
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+28. Row 50: حامل زجاج 2 عين _شفاط 50كجم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WKR1G50
+  Original Barcode: 6941786816703
+  Modified Barcode: 6941786816703DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: حامل زجاج 2 عين _شفاط 50كجم
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+29. Row 51: بنسه برشام 9.5"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHR1609
+  Original Barcode: 695085803317
+  Modified Barcode: 695085803317DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه برشام 9.5"
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+30. Row 52: بنسه جاز 8
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WPL6C08
+  Original Barcode: 6942123016947
+  Modified Barcode: 6942123016947DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنسه جاز 8
+  Location: يدوي / بنس
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+31. Row 55: مطرقه 1500
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHM2315
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL8DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مطرقه 1500
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+32. Row 56: شاكوش 500 جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm1305
+  Original Barcode: 6975085800859
+  Modified Barcode: 6975085800859DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شاكوش 500 جرام
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+33. Row 57: شاكوش 300 جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm1303
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL9DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شاكوش 300 جرام
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+34. Row 58: شاكوش خلاعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: whm33d8
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL10DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شاكوش خلاعه
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+35. Row 63: اجنه مسمار يدوي 250*16*4
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCC1303
+  Original Barcode: 6975085801641
+  Modified Barcode: 6975085801641DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: اجنه مسمار يدوي 250*16*4
+  Location: يدوي / اجنة ومسمار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+36. Row 66: كتر 150 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK29189
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL11DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: كتر 150 مم
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+37. Row 67: كتر 153مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK39189
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL12DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: كتر 153مم
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+38. Row 68: كتر بلاستيك خفيف
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSK2913
+  Original Barcode: 6942123019412
+  Modified Barcode: 6942123019412DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: كتر بلاستيك خفيف
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+39. Row 70: مفتاح بوجيهات 16مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WTH5116
+  Original Barcode: 6941786814747
+  Modified Barcode: 6941786814747DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مفتاح بوجيهات 16مم
+  Location: يدوي / مفاتيح
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+40. Row 71: مفتاح بوجيهات 21مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WTH5121
+  Original Barcode: 6941786814778
+  Modified Barcode: 6941786814778DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مفتاح بوجيهات 21مم
+  Location: يدوي / مفاتيح
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+41. Row 81: بنطه هلتي 12*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1208
+  Original Barcode: 6941786802591
+  Modified Barcode: 6941786802591DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه هلتي 12*160
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+42. Row 82: بنطه هلتي 10*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1207
+  Original Barcode: 6941786802560
+  Modified Barcode: 6941786802560DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه هلتي 10*160
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+43. Row 83: بنطه هلتي 8*160
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1206
+  Original Barcode: 6941786802539
+  Modified Barcode: 6941786802539DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه هلتي 8*160
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+44. Row 84: بنطه هلتي 6*110
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WHD1202
+  Original Barcode: 6941786802416
+  Modified Barcode: 6941786802416DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه هلتي 6*110
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+45. Row 86: بنطه فديه 12*150
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WMJ1K12
+  Original Barcode: 6941786805493
+  Modified Barcode: 6941786805493DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه فديه 12*150
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+46. Row 87: بنطه سمسمه6 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K01
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL13DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه سمسمه6 مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+47. Row 88: بنطه سمسمه8مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K02
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL14DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه سمسمه8مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+48. Row 89: بنطه سمسمه12 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K04
+  Original Barcode: 6941786804250
+  Modified Barcode: 6941786804250DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه سمسمه12 مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+49. Row 90: بنطه سمسمه10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WSJ1K03
+  Original Barcode: 
+  Modified Barcode: WADFFODUPL15DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه سمسمه10مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+50. Row 91: بنطه معلقه 16مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K16
+  Original Barcode: 6942431486241
+  Modified Barcode: 6942431486241DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه معلقه 16مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+51. Row 92: بنطه معلقه 18مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K18
+  Original Barcode: 6942431483486
+  Modified Barcode: 6942431483486DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه معلقه 18مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+52. Row 93: بنطه معلقه 20مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K20
+  Original Barcode: 6942431485817
+  Modified Barcode: 6942431485817DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه معلقه 20مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+53. Row 94: بنطه معلقه 22مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WWF1K22
+  Original Barcode: 6942431480997
+  Modified Barcode: 6942431480997DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: بنطه معلقه 22مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+54. Row 100: صنفره مروحيه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WYL2302
+  Original Barcode: 6941786804366
+  Modified Barcode: 6941786804366DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: صنفره مروحيه
+  Location: اكسسوارات / صنفرة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+55. Row 102: فرشة مجدولة
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: wce2402
+  Original Barcode: 6941786809125
+  Modified Barcode: 6941786809125DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: فرشة مجدولة
+  Location: اكسسوارات / فرش
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+56. Row 105: شنيور بطاريه 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCDP511
+  Original Barcode: ‎ 6976057336147
+  Modified Barcode: ‎ 6976057336147DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شنيور بطاريه 20 فولت
+  Location: بطاررية / شنيور وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+57. Row 106: شنيور 12 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WCDS510
+  Original Barcode: 6976057338981
+  Modified Barcode: 6976057338981DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: شنيور 12 فولت
+  Location: بطاررية / شنيور وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+58. Row 108: مسدس شمع 150 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: WGL3608
+  Original Barcode: 6941786820380
+  Modified Barcode: 6941786820380DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: WADFFO brand
+  Conflicting Product: مسدس شمع 150 وات
+  Location: بطاررية / بلاور وتسخين
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ DUPLICATE BARCODES IN EXCEL - 1 FOUND
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: When BARCODE is duplicated within the Excel sheet, barcode is SET TO NULL.
+Products are inserted WITHOUT barcode.
+
+⭐ BARCODE: 6941786803871 (used 2 times)
+  1. Row 85: بنطه فديه 8*120
+     Code: WMZ1K04
+     Original Barcode: 6941786803871
+     Modified Barcode: NULL
+     Location: اكسسوارات / بنط
+     Status: ✅ PRODUCT INSERTED WITHOUT BARCODE
+  2. Row 95: بنطه فديه 6*100
+     Code: WMJ1K04
+     Original Barcode: 6941786803871
+     Modified Barcode: NULL
+     Location: اكسسوارات / بنط
+     Status: ✅ PRODUCT INSERTED WITHOUT BARCODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ PRODUCTS WITH AUTO-GENERATED BARCODE (16)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products had NO barcode in Excel. Barcode was auto-generated from hierarchy.
+
+1. Row 5: شنيور 650وات عاده ودقاق 13مم
+  Code: WMD15651
+  Generated Barcode: WADFFO
+  Location: كهرباء / شنيور
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+2. Row 10: صاروخ 9 "2000
+  Code: wag852001
+  Generated Barcode: WADFFODUPL1
+  Location: كهرباء / صاروخ
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+3. Row 24: طقم مفك 6قطع كاوتشه
+  Code: WSS1206
+  Generated Barcode: WADFFODUPL2
+  Location: يدوي / مفكات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+4. Row 28: طقم لقم 1/4 بوصه 45 قطعه
+  Code: WST4D45
+  Generated Barcode: WADFFODUPL3
+  Location: يدوي / لقم ويد سيستم
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+5. Row 37: لقمه رباط 2\1 ب 22مم
+  Code: WSC1222
+  Generated Barcode: WADFFODUPL4
+  Location: يدوي / لقم ويد سيستم
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+6. Row 43: بنسه برشام صاموله
+  Code: WHR5710
+  Generated Barcode: WADFFODUPL5
+  Location: يدوي / بنس
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+7. Row 44: مفتاح فرنساوي 8بوصه
+  Code: WAW1108
+  Generated Barcode: WADFFODUPL6
+  Location: يدوي / بنس
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+8. Row 46: بنسه 7
+  Code: WPL1C07
+  Generated Barcode: WADFFODUPL7
+  Location: يدوي / بنس
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+9. Row 55: مطرقه 1500
+  Code: WHM2315
+  Generated Barcode: WADFFODUPL8
+  Location: يدوي / شاكوش ومطرقة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+10. Row 57: شاكوش 300 جرام
+  Code: whm1303
+  Generated Barcode: WADFFODUPL9
+  Location: يدوي / شاكوش ومطرقة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+11. Row 58: شاكوش خلاعه
+  Code: whm33d8
+  Generated Barcode: WADFFODUPL10
+  Location: يدوي / شاكوش ومطرقة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+12. Row 66: كتر 150 مم
+  Code: WSK29189
+  Generated Barcode: WADFFODUPL11
+  Location: يدوي / قطرات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+13. Row 67: كتر 153مم
+  Code: WSK39189
+  Generated Barcode: WADFFODUPL12
+  Location: يدوي / قطرات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+14. Row 87: بنطه سمسمه6 مم
+  Code: WSJ1K01
+  Generated Barcode: WADFFODUPL13
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+15. Row 88: بنطه سمسمه8مم
+  Code: WSJ1K02
+  Generated Barcode: WADFFODUPL14
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+16. Row 90: بنطه سمسمه10مم
+  Code: WSJ1K03
+  Generated Barcode: WADFFODUPL15
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ PRODUCTS WITH MISSING COST (8)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+1. Row 28: طقم لقم 1/4 بوصه 45 قطعه
+  Code: WST4D45
+  Location: يدوي / لقم ويد سيستم
+
+2. Row 47: قصافه 6"
+  Code: WPL3C06
+  Location: يدوي / بنس
+
+3. Row 51: بنسه برشام 9.5"
+  Code: WHR1609
+  Location: يدوي / بنس
+
+4. Row 56: شاكوش 500 جرام
+  Code: whm1305
+  Location: يدوي / شاكوش ومطرقة
+
+5. Row 57: شاكوش 300 جرام
+  Code: whm1303
+  Location: يدوي / شاكوش ومطرقة
+
+6. Row 63: اجنه مسمار يدوي 250*16*4
+  Code: WCC1303
+  Location: يدوي / اجنة ومسمار يدوي
+
+7. Row 102: فرشة مجدولة
+  Code: wce2402
+  Location: اكسسوارات / فرش
+
+8. Row 106: شنيور 12 فولت
+  Code: WCDS510
+  Location: بطاررية / شنيور وهيلتي
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+END OF REPORT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,2217 @@
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+INGCO - COMPREHENSIVE DATA REPORT
+Generated: 2/12/2026, 7:53:10 AM
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📊 SUMMARY
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Total Rows Processed:                           102
+✅ Successfully Inserted:                        0
+❌ Insertion Errors:                             102
+❌ Skipped (No Name):                            0
+❌ Removed (Duplicate Codes in Excel):           0 products
+⭐ Auto-Generated Codes:                         0 products
+⭐ Barcodes Set to NULL (Duplicate in Excel):    0 products
+⭐ Barcodes Auto-Generated (Empty in Excel):     28 products
+⚠️  Barcodes Modified (Cross-Brand Conflict):    102 products (added DUPL suffix)
+📁 Empty ItemTypes Created:                      31
+
+📐 CALCULATION:
+  102 (total rows)
+  - 0 (no name)
+  - 0 (duplicate codes removed)
+  ───────────
+  = 102 (expected to insert)
+  - 102 (insertion errors)
+  ───────────
+  = 0 (actually inserted)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PRODUCT COUNTS BY HIERARCHY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📦 CATEGORIES:
+  INGCO: 102 products
+
+📂 SUBCATEGORIES:
+  INGCO > كهرباء: 27 products
+  INGCO > يدوي: 39 products
+  INGCO > اكسسوارات: 9 products
+  INGCO > بطاررية: 12 products
+  INGCO > جاردن: 4 products
+  INGCO > وحدات قياس: 9 products
+  INGCO > هواء: 2 products
+
+📁 ITEM TYPES (All):
+  INGCO > يدوي > بنس كماشة فرنساوي انجليزي: 13 products
+  INGCO > يدوي > مفكات: 6 products
+  INGCO > بطاررية > شنيور وهيلتي ودريل: 6 products
+  INGCO > وحدات قياس > امتار يدوي: 6 products
+  INGCO > كهرباء > شنيور: 5 products
+  INGCO > اكسسوارات > قطع غيار: 5 products
+  INGCO > كهرباء > صاروخ: 4 products
+  INGCO > يدوي > لقم ويد سيستم: 4 products
+  INGCO > كهرباء > وهيلتي: 3 products
+  INGCO > كهرباء > بلاور: 3 products
+  INGCO > كهرباء > تسخين هوت جن: 3 products
+  INGCO > كهرباء > دهانات: 3 products
+  INGCO > كهرباء > اركت: 3 products
+  INGCO > يدوي > قطرات: 3 products
+  INGCO > يدوي > ادوات سيارات: 3 products
+  INGCO > اكسسوارات > صنية والماظة: 3 products
+  INGCO > بطاررية > اطقم كومبو: 3 products
+  INGCO > بطاررية > بلاور وتسخين: 3 products
+  INGCO > جاردن > ماكن غسيل: 3 products
+  INGCO > يدوي > ماكن سيراميك: 2 products
+  INGCO > يدوي > مقصات: 2 products
+  INGCO > وحدات قياس > ميزان ليزر: 2 products
+  INGCO > كهرباء > راوتر: 1 products
+  INGCO > كهرباء > صنية: 1 products
+  INGCO > كهرباء > فارة: 1 products
+  INGCO > يدوي > اطقم عده: 1 products
+  INGCO > يدوي > شاكوش ومطرقة: 1 products
+  INGCO > يدوي > شنط عده: 1 products
+  INGCO > يدوي > مسدس سليكون: 1 products
+  INGCO > يدوي > مفاتيح: 1 products
+  INGCO > يدوي > جوانتي: 1 products
+  INGCO > اكسسوارات > بنط: 1 products
+  INGCO > جاردن > رشاشات: 1 products
+  INGCO > وحدات قياس > امتار ليزر: 1 products
+  INGCO > هواء > دباسات: 1 products
+  INGCO > هواء > دهانات: 1 products
+  INGCO > كهرباء > ديسك: 0 products ⭐ EMPTY
+  INGCO > كهرباء > صنفرة: 0 products ⭐ EMPTY
+  INGCO > كهرباء > ماكن جلخ: 0 products ⭐ EMPTY
+  INGCO > كهرباء > ماكن لحام  قصدير: 0 products ⭐ EMPTY
+  INGCO > كهرباء > ماكن لحام  بولي: 0 products ⭐ EMPTY
+  INGCO > كهرباء > ماكن لحام حديد: 0 products ⭐ EMPTY
+  INGCO > يدوي > اطقم الن وبيبه: 0 products ⭐ EMPTY
+  INGCO > يدوي > قمطة وزرجينة ومنجلة: 0 products ⭐ EMPTY
+  INGCO > يدوي > اجنة ومسمار يدوي: 0 products ⭐ EMPTY
+  INGCO > يدوي > منشار خشابي وحدادي: 0 products ⭐ EMPTY
+  INGCO > يدوي > بوكليز: 0 products ⭐ EMPTY
+  INGCO > يدوي > نظارت: 0 products ⭐ EMPTY
+  INGCO > يدوي > ازميل: 0 products ⭐ EMPTY
+  INGCO > يدوي > دباسة خشب: 0 products ⭐ EMPTY
+  INGCO > يدوي > ادوات دهانات: 0 products ⭐ EMPTY
+  INGCO > اكسسوارات > سلاح اركت: 0 products ⭐ EMPTY
+  INGCO > اكسسوارات > احجار: 0 products ⭐ EMPTY
+  INGCO > اكسسوارات > صنفرة وادوات ماكن لحام: 0 products ⭐ EMPTY
+  INGCO > اكسسوارات > فرش: 0 products ⭐ EMPTY
+  INGCO > بطاررية > دهانات: 0 products ⭐ EMPTY
+  INGCO > بطاررية > كشافات: 0 products ⭐ EMPTY
+  INGCO > بطاررية > صاروخ: 0 products ⭐ EMPTY
+  INGCO > بطاررية > صنية: 0 products ⭐ EMPTY
+  INGCO > جاردن > خراطيم: 0 products ⭐ EMPTY
+  INGCO > جاردن > مقصات زرع: 0 products ⭐ EMPTY
+  INGCO > جاردن > ادوات زراعة: 0 products ⭐ EMPTY
+  INGCO > جاردن > ماكن قص نجيلة: 0 products ⭐ EMPTY
+  INGCO > جاردن > مناشير زراعية: 0 products ⭐ EMPTY
+  INGCO > وحدات قياس > ميزان مياه: 0 products ⭐ EMPTY
+  INGCO > وحدات قياس > زاوية علام: 0 products ⭐ EMPTY
+  INGCO > هواء > دريل: 0 products ⭐ EMPTY
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ EMPTY ITEM TYPES CREATED - 31
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These ItemTypes were found in Excel but have NO products.
+They were created in the database structure.
+
+1. INGCO > كهرباء > ديسك
+2. INGCO > كهرباء > صنفرة
+3. INGCO > كهرباء > ماكن جلخ
+4. INGCO > كهرباء > ماكن لحام  قصدير
+5. INGCO > كهرباء > ماكن لحام  بولي
+6. INGCO > كهرباء > ماكن لحام حديد
+7. INGCO > يدوي > اطقم الن وبيبه
+8. INGCO > يدوي > قمطة وزرجينة ومنجلة
+9. INGCO > يدوي > اجنة ومسمار يدوي
+10. INGCO > يدوي > منشار خشابي وحدادي
+11. INGCO > يدوي > بوكليز
+12. INGCO > يدوي > نظارت
+13. INGCO > يدوي > ازميل
+14. INGCO > يدوي > دباسة خشب
+15. INGCO > يدوي > ادوات دهانات
+16. INGCO > اكسسوارات > سلاح اركت
+17. INGCO > اكسسوارات > احجار
+18. INGCO > اكسسوارات > صنفرة وادوات ماكن لحام
+19. INGCO > اكسسوارات > فرش
+20. INGCO > بطاررية > دهانات
+21. INGCO > بطاررية > كشافات
+22. INGCO > بطاررية > صاروخ
+23. INGCO > بطاررية > صنية
+24. INGCO > جاردن > خراطيم
+25. INGCO > جاردن > مقصات زرع
+26. INGCO > جاردن > ادوات زراعة
+27. INGCO > جاردن > ماكن قص نجيلة
+28. INGCO > جاردن > مناشير زراعية
+29. INGCO > وحدات قياس > ميزان مياه
+30. INGCO > وحدات قياس > زاوية علام
+31. INGCO > هواء > دريل
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+MISSING FIELDS SUMMARY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ Products with AUTO-GENERATED CODE:             8
+⭐ Products with AUTO-GENERATED BARCODE:          28
+ℹ️  Products with ZERO quantity:                  32
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+❌ INSERTION ERRORS - 102 PRODUCTS FAILED TO INSERT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products passed validation but failed during database insertion.
+
+1. Row 5: شنيور 450 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ED45658
+  Barcode: NULL
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+2. Row 6: شنيور 680 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID6808
+  Barcode: 6925582153064
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+3. Row 7: شنيور 13 مللي 810 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID8108
+  Barcode: 6941640136190
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+4. Row 8: شنيور دقاق 710 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID7118
+  Barcode: 6942141809064
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+5. Row 9: شنيور 10ملي 550وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ED55038
+  Barcode: 6942141814488
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+6. Row 11: هيلتي 800 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: RGH9028
+  Barcode: 6925582142273
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+7. Row 12: هيلتي تكسير 1300
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: pDB13008
+  Barcode: NULL
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+8. Row 13: هيلتي تكسير 1500
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: RH150038
+  Barcode: 6941640153340
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+9. Row 15: بلاور 400
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB4018
+  Barcode: NULL
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+10. Row 16: بلاور 650
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB6038
+  Barcode: NULL
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+11. Row 17: بلاور 800سرعات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB8038
+  Barcode: 6942141807312
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+12. Row 19: مسدس تسخين 2000وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HG200078
+  Barcode: 6976051788911
+  Location: كهرباء / تسخين هوت جن
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+13. Row 20: مسدس تسخين 2000
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hg2000385
+  Barcode: NULL
+  Location: كهرباء / تسخين هوت جن
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+14. Row 21: مسدس شمع 100 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: gg148
+  Barcode: 6925582126501
+  Location: كهرباء / تسخين هوت جن
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+15. Row 23: مسدس رش كهرباء 450وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG3508
+  Barcode: NULL
+  Location: كهرباء / دهانات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+16. Row 24: مسدس رش كهرباء550وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG5008
+  Barcode: 6925582126228
+  Location: كهرباء / دهانات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+17. Row 25: مسدس رش كهرباء 530وات تانك 1000مل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG4506
+  Barcode: 6942141815249
+  Location: كهرباء / دهانات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+18. Row 27: صاروخ 5 بوصه سرعات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AC900285
+  Barcode: 6941640105882
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+19. Row 28: صاروخ متعدد ترددي 300 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: mf3008
+  Barcode: 6925582127027
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+20. Row 29: صاروخ 9" 2200 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AG220018
+  Barcode: NULL
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+21. Row 30: ميني كرافت 130 وات 109ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: MG13328
+  Barcode: 6941640162885
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+22. Row 32: اركت 400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS400285
+  Barcode: NULL
+  Location: كهرباء / اركت
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+23. Row 33: اركت 570وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS57028
+  Barcode: NULL
+  Location: كهرباء / اركت
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+24. Row 34: اركت 650 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS6508
+  Barcode: 6925582126167
+  Location: كهرباء / اركت
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+25. Row 36: راوتر 600
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PLM6001
+  Barcode: 6941640156716
+  Location: كهرباء / راوتر
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+26. Row 38: منشار صنيه 2200 وات 9"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CS23522
+  Barcode: NULL
+  Location: كهرباء / صنية
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+27. Row 41: فاره 8بوصه 750وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PL7508
+  Barcode: 6941640165411
+  Location: كهرباء / فارة
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+28. Row 49: طقم مفك سيستم 13 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKISD1208
+  Barcode: 6925582122374
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+29. Row 50: طقم مفك يد كاوتش 8قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0828
+  Barcode: 6925582104462
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+30. Row 51: طقم مفك 4 قطع يد كاوتش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0428
+  Barcode: 6941640124760
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+31. Row 52: طقم مفك يد بلاستيك 2*1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0258
+  Barcode: 6925582134933
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+32. Row 53: طقم مفك يد كاوتش 2*1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0248
+  Barcode: 6925582111910
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+33. Row 54: مفك عجوزقلاب
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKISD0202
+  Barcode: 6925582144192
+  Location: يدوي / مفكات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+34. Row 56: هزاز وشفاط سيراميك بطاريه وشنطه وسكينه معجون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CTVLI20018
+  Barcode: 6942141815560
+  Location: يدوي / ماكن سيراميك
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+35. Row 57: هزاز سراميك 20 فولت 1 بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: TTVLI20101
+  Barcode: NULL
+  Location: يدوي / ماكن سيراميك
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+36. Row 59: طقم لقم ربع 45ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS14451
+  Barcode: 6928073673287
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+37. Row 60: طقم لقم ريع 12 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS14122
+  Barcode: 6925582137019
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+38. Row 61: طقم لقم نص بوصه 12 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS12122
+  Barcode: 6925582109160
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+39. Row 62: طقم لقم 46 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hkts14462
+  Barcode: NULL
+  Location: يدوي / لقم ويد سيستم
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+40. Row 64: كلابه 10"بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSJP0110
+  Barcode: 6925582100648
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+41. Row 65: اراجه نت 8بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HMPC1468P
+  Barcode: 6941640157089
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+42. Row 66: بنسه جاز 10بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSPJP02250
+  Barcode: 6925582103182
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+43. Row 67: بنسه عزم 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP12200
+  Barcode: 6941640156341
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+44. Row 68: قصافه كابلات 10بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCCB0210
+  Barcode: 6925582104301
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+45. Row 69: بنسه برشام 10.5
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HRS108
+  Barcode: 6941640155634
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+46. Row 70: اكماشه نجار 8 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCPP02200
+  Barcode: NULL
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+47. Row 71: قصافه سلك 6 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HDCP08168
+  Barcode: 6925582123197
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+48. Row 72: بنسه غراب 10 "
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPP28258
+  Barcode: NULL
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+49. Row 73: بنسه بوز طويل 6"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HLNP08168
+  Barcode: NULL
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+50. Row 74: بنسه 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP08208
+  Barcode: 6925582123180
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+51. Row 75: بنسه 7"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP08188
+  Barcode: 6925582123173
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+52. Row 76: طقم بنسه 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hkps08311
+  Barcode: 6941640124739
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+53. Row 78: طقم عده يدويه 168قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP21681
+  Barcode: 6942141809026
+  Location: يدوي / اطقم عده
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+54. Row 80: شاكوش خلاعه 220جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCH81008D
+  Barcode: 6942141805516
+  Location: يدوي / شاكوش ومطرقة
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+55. Row 83: طقم شنطه عده
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PBXK0301
+  Barcode: 6941640156426
+  Location: يدوي / شنط عده
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+56. Row 87: مسدس سيلكون 2/1 هلال 9"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCG1809
+  Barcode: 6941640189028
+  Location: يدوي / مسدس سليكون
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+57. Row 90: قطر بكره
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS16618
+  Barcode: 6925582128154
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+58. Row 91: قطر الومنيوم 19ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS11615
+  Barcode: 6941640178015
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+59. Row 92: قطر بلاستك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS16001
+  Barcode: 6941640153944
+  Location: يدوي / قطرات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+60. Row 94: طقم مفتاح ناحيه 8 قطع من 19-6
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSPA1088-I
+  Barcode: 6925582116984
+  Location: يدوي / مفاتيح
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+61. Row 97: جوانتي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HGPUG02
+  Barcode: 6941640198655
+  Location: يدوي / جوانتي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+62. Row 100: وصله بطاريه 600امبير3متر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HBTCP6008
+  Barcode: NULL
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+63. Row 101: كمبروسر سياره 2 بستم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AAC2508
+  Barcode: 6925582125672
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+64. Row 102: مكنسه 12فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CVLI2026
+  Barcode: 6976051781820
+  Location: يدوي / ادوات سيارات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+65. Row 105: مقص بولي صغير
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPCS05428
+  Barcode: 6941640165879
+  Location: يدوي / مقصات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+66. Row 106: مقص عقله 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPS0201
+  Barcode: NULL
+  Location: يدوي / مقصات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+67. Row 111: بنط صليبى وصليبه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SDBIM21PH233
+  Barcode: 6925582144482
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+68. Row 113: بطاريه 12فولت تايب سي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FBLI12153
+  Barcode: 6976051781967
+  Location: اكسسوارات / قطع غيار
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+69. Row 114: واحد بطاريه شنيور 12فولت تايب سي 20 نيوتن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI12456
+  Barcode: NULL
+  Location: اكسسوارات / قطع غيار
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+70. Row 115: شاحن بطاريه 20
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FCLI2001
+  Barcode: NULL
+  Location: اكسسوارات / قطع غيار
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+71. Row 116: بطاريه 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FBLI20011
+  Barcode: NULL
+  Location: اكسسوارات / قطع غيار
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+72. Row 117: وصله شاحن تايب سي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: IUCC01
+  Barcode: 6925582126204
+  Location: اكسسوارات / قطع غيار
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+73. Row 119: طقم الماظه رخام 4.5قطعتين
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: DMD0111523
+  Barcode: 6925582153439
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+74. Row 120: الماظه رخام مفتوحه 7بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: DMD011802M
+  Barcode: 6925582124293
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+75. Row 121: منشار حوائط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HWBSW628C
+  Barcode: 6925582147131
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+76. Row 128: طقم عده 165قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP11651
+  Barcode: NULL
+  Location: بطاررية / اطقم كومبو
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+77. Row 129: طقم شنيور 66 وهليتي وصاروخ بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: COSLI241198
+  Barcode: NULL
+  Location: بطاررية / اطقم كومبو
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+78. Row 130: طقم شنطه شنيور 12 فولت 129 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP11291
+  Barcode: 36942141817794
+  Location: بطاررية / اطقم كومبو
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+79. Row 132: شنيور مفك 4 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CSDLI0442
+  Barcode: 6976051783046
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+80. Row 133: شنيور 55نيوتن بطاريه وشاحن 2
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: cldli20558
+  Barcode: 6942141809835
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+81. Row 134: شنيور 12 فولت 2 بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI12206
+  Barcode: 6942141817465
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+82. Row 135: شنيور 55نيوتن بطاريه وشاحن 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI205582
+  Barcode: 6942141809385
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+83. Row 136: طقم شنيور 20 فولت 66نيوتن مع دريل فك وربط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CKLI20286
+  Barcode: 6942141824500
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+84. Row 137: دريل بطاريه نص 405نيوتن 2بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CIWLI2045
+  Barcode: 6942141814525
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+85. Row 140: بلاور 20 فولت بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CABLI2078
+  Barcode: 6942141816413
+  Location: بطاررية / بلاور وتسخين
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+86. Row 141: بلاور 20 فولت بدون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CABLI20028
+  Barcode: NULL
+  Location: بطاررية / بلاور وتسخين
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+87. Row 142: هزاز سيراميك بدون بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ctvli2010
+  Barcode: 6976051788638
+  Location: بطاررية / بلاور وتسخين
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+88. Row 148: طقم تجميع خرطوم نص بوصه 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HHCS03122
+  Barcode: 6925582108767
+  Location: جاردن / رشاشات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+89. Row 154: مسدس غسيل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AWG1001
+  Barcode: 6925582115215
+  Location: جاردن / ماكن غسيل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+90. Row 155: مغسله 20 فولت بطاريه وشاحن 24 بار
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CPWLI20362
+  Barcode: NULL
+  Location: جاردن / ماكن غسيل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+91. Row 156: مسدس غسيل 20 فولت ا بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CPWL120362
+  Barcode: 6942141813580
+  Location: جاردن / ماكن غسيل
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+92. Row 160: متر 5*25
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39525
+  Barcode: 6941640161376
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+93. Row 161: متر فرامل 8*25
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39825
+  Barcode: 6941640153692
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+94. Row 162: متر كاوتش فرامل 3*16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT08316
+  Barcode: 6941640153067
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+95. Row 163: متر 3*16بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39316
+  Barcode: 6941640158857
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+96. Row 164: متر 5 متر 19 مللي بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39519
+  Barcode: 6941640166531
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+97. Row 165: متر 25*10 2 وش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT081025
+  Barcode: NULL
+  Location: وحدات قياس / امتار يدوي
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+98. Row 167: متر ليزر 70 متر متر5متر كاوتش 32
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HLDD241201
+  Barcode: NULL
+  Location: وحدات قياس / امتار ليزر
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+99. Row 170: ميزان مياه 3 عين 30 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSL08030
+  Barcode: NULL
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+100. Row 171: ميزان مياه 3 عين 22 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HMSL01030
+  Barcode: NULL
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+101. Row 175: دباسه مسمار 1*3
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSG1404
+  Barcode: 6925582140194
+  Location: هواء / دباسات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+102. Row 178: طقم كيت 5 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKT0053
+  Barcode: 6941640129802
+  Location: هواء / دهانات
+  ❌ ERROR: Code already exists in INGCO
+  ⚠️  CONFLICT WITH: INGCO brand (same code already exists)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ CROSS-BRAND BARCODE CONFLICTS - 102 FOUND
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products have barcodes that already exist in OTHER brands.
+The barcode was MODIFIED by adding "DUPL" suffix.
+
+1. Row 5: شنيور 450 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ED45658
+  Original Barcode: 
+  Modified Barcode: INGCODUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 450 وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+2. Row 6: شنيور 680 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID6808
+  Original Barcode: 6925582153064
+  Modified Barcode: 6925582153064DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 680 وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+3. Row 7: شنيور 13 مللي 810 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID8108
+  Original Barcode: 6941640136190
+  Modified Barcode: 6941640136190DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 13 مللي 810 وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+4. Row 8: شنيور دقاق 710 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ID7118
+  Original Barcode: 6942141809064
+  Modified Barcode: 6942141809064DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور دقاق 710 وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+5. Row 9: شنيور 10ملي 550وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ED55038
+  Original Barcode: 6942141814488
+  Modified Barcode: 6942141814488DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 10ملي 550وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+6. Row 11: هيلتي 800 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: RGH9028
+  Original Barcode: 6925582142273
+  Modified Barcode: 6925582142273DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هيلتي 800 وات
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+7. Row 12: هيلتي تكسير 1300
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: pDB13008
+  Original Barcode: 
+  Modified Barcode: INGCODUPL1DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هيلتي تكسير 1300
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+8. Row 13: هيلتي تكسير 1500
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: RH150038
+  Original Barcode: 6941640153340
+  Modified Barcode: 6941640153340DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هيلتي تكسير 1500
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+9. Row 15: بلاور 400
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB4018
+  Original Barcode: 
+  Modified Barcode: INGCODUPL2DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بلاور 400
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+10. Row 16: بلاور 650
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB6038
+  Original Barcode: 
+  Modified Barcode: INGCODUPL3DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بلاور 650
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+11. Row 17: بلاور 800سرعات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AB8038
+  Original Barcode: 6942141807312
+  Modified Barcode: 6942141807312DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بلاور 800سرعات
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+12. Row 19: مسدس تسخين 2000وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HG200078
+  Original Barcode: 6976051788911
+  Modified Barcode: 6976051788911DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس تسخين 2000وات
+  Location: كهرباء / تسخين هوت جن
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+13. Row 20: مسدس تسخين 2000
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hg2000385
+  Original Barcode: 
+  Modified Barcode: INGCODUPL4DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس تسخين 2000
+  Location: كهرباء / تسخين هوت جن
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+14. Row 21: مسدس شمع 100 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: gg148
+  Original Barcode: 6925582126501
+  Modified Barcode: 6925582126501DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس شمع 100 وات
+  Location: كهرباء / تسخين هوت جن
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+15. Row 23: مسدس رش كهرباء 450وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG3508
+  Original Barcode: 
+  Modified Barcode: INGCODUPL5DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس رش كهرباء 450وات
+  Location: كهرباء / دهانات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+16. Row 24: مسدس رش كهرباء550وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG5008
+  Original Barcode: 6925582126228
+  Modified Barcode: 6925582126228DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس رش كهرباء550وات
+  Location: كهرباء / دهانات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+17. Row 25: مسدس رش كهرباء 530وات تانك 1000مل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SPG4506
+  Original Barcode: 6942141815249
+  Modified Barcode: 6942141815249DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس رش كهرباء 530وات تانك 1000مل
+  Location: كهرباء / دهانات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+18. Row 27: صاروخ 5 بوصه سرعات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AC900285
+  Original Barcode: 6941640105882
+  Modified Barcode: 6941640105882DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: صاروخ 5 بوصه سرعات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+19. Row 28: صاروخ متعدد ترددي 300 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: mf3008
+  Original Barcode: 6925582127027
+  Modified Barcode: 6925582127027DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: صاروخ متعدد ترددي 300 وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+20. Row 29: صاروخ 9" 2200 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AG220018
+  Original Barcode: 
+  Modified Barcode: INGCODUPL6DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: صاروخ 9" 2200 وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+21. Row 30: ميني كرافت 130 وات 109ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: MG13328
+  Original Barcode: 6941640162885
+  Modified Barcode: 6941640162885DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: ميني كرافت 130 وات 109ق
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+22. Row 32: اركت 400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS400285
+  Original Barcode: 
+  Modified Barcode: INGCODUPL7DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: اركت 400 وات
+  Location: كهرباء / اركت
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+23. Row 33: اركت 570وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS57028
+  Original Barcode: 
+  Modified Barcode: INGCODUPL8DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: اركت 570وات
+  Location: كهرباء / اركت
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+24. Row 34: اركت 650 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: JS6508
+  Original Barcode: 6925582126167
+  Modified Barcode: 6925582126167DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: اركت 650 وات
+  Location: كهرباء / اركت
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+25. Row 36: راوتر 600
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PLM6001
+  Original Barcode: 6941640156716
+  Modified Barcode: 6941640156716DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: راوتر 600
+  Location: كهرباء / راوتر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+26. Row 38: منشار صنيه 2200 وات 9"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CS23522
+  Original Barcode: 
+  Modified Barcode: INGCODUPL9DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: منشار صنيه 2200 وات 9"
+  Location: كهرباء / صنية
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+27. Row 41: فاره 8بوصه 750وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PL7508
+  Original Barcode: 6941640165411
+  Modified Barcode: 6941640165411DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: فاره 8بوصه 750وات
+  Location: كهرباء / فارة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+28. Row 49: طقم مفك سيستم 13 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKISD1208
+  Original Barcode: 6925582122374
+  Modified Barcode: 6925582122374DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفك سيستم 13 قطعه
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+29. Row 50: طقم مفك يد كاوتش 8قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0828
+  Original Barcode: 6925582104462
+  Modified Barcode: 6925582104462DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفك يد كاوتش 8قطع
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+30. Row 51: طقم مفك 4 قطع يد كاوتش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0428
+  Original Barcode: 6941640124760
+  Modified Barcode: 6941640124760DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفك 4 قطع يد كاوتش
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+31. Row 52: طقم مفك يد بلاستيك 2*1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0258
+  Original Barcode: 6925582134933
+  Modified Barcode: 6925582134933DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفك يد بلاستيك 2*1
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+32. Row 53: طقم مفك يد كاوتش 2*1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSD0248
+  Original Barcode: 6925582111910
+  Modified Barcode: 6925582111910DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفك يد كاوتش 2*1
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+33. Row 54: مفك عجوزقلاب
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKISD0202
+  Original Barcode: 6925582144192
+  Modified Barcode: 6925582144192DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مفك عجوزقلاب
+  Location: يدوي / مفكات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+34. Row 56: هزاز وشفاط سيراميك بطاريه وشنطه وسكينه معجون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CTVLI20018
+  Original Barcode: 6942141815560
+  Modified Barcode: 6942141815560DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هزاز وشفاط سيراميك بطاريه وشنطه وسكينه معجون
+  Location: يدوي / ماكن سيراميك
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+35. Row 57: هزاز سراميك 20 فولت 1 بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: TTVLI20101
+  Original Barcode: 
+  Modified Barcode: INGCODUPL10DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هزاز سراميك 20 فولت 1 بطاريه
+  Location: يدوي / ماكن سيراميك
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+36. Row 59: طقم لقم ربع 45ق
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS14451
+  Original Barcode: 6928073673287
+  Modified Barcode: 6928073673287DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم لقم ربع 45ق
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+37. Row 60: طقم لقم ريع 12 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS14122
+  Original Barcode: 6925582137019
+  Modified Barcode: 6925582137019DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم لقم ريع 12 قطعه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+38. Row 61: طقم لقم نص بوصه 12 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTS12122
+  Original Barcode: 6925582109160
+  Modified Barcode: 6925582109160DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم لقم نص بوصه 12 قطعه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+39. Row 62: طقم لقم 46 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hkts14462
+  Original Barcode: 
+  Modified Barcode: INGCODUPL11DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم لقم 46 قطعه
+  Location: يدوي / لقم ويد سيستم
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+40. Row 64: كلابه 10"بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSJP0110
+  Original Barcode: 6925582100648
+  Modified Barcode: 6925582100648DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: كلابه 10"بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+41. Row 65: اراجه نت 8بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HMPC1468P
+  Original Barcode: 6941640157089
+  Modified Barcode: 6941640157089DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: اراجه نت 8بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+42. Row 66: بنسه جاز 10بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSPJP02250
+  Original Barcode: 6925582103182
+  Modified Barcode: 6925582103182DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه جاز 10بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+43. Row 67: بنسه عزم 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP12200
+  Original Barcode: 6941640156341
+  Modified Barcode: 6941640156341DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه عزم 8"
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+44. Row 68: قصافه كابلات 10بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCCB0210
+  Original Barcode: 6925582104301
+  Modified Barcode: 6925582104301DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: قصافه كابلات 10بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+45. Row 69: بنسه برشام 10.5
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HRS108
+  Original Barcode: 6941640155634
+  Modified Barcode: 6941640155634DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه برشام 10.5
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+46. Row 70: اكماشه نجار 8 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCPP02200
+  Original Barcode: 
+  Modified Barcode: INGCODUPL12DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: اكماشه نجار 8 بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+47. Row 71: قصافه سلك 6 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HDCP08168
+  Original Barcode: 6925582123197
+  Modified Barcode: 6925582123197DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: قصافه سلك 6 بوصه
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+48. Row 72: بنسه غراب 10 "
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPP28258
+  Original Barcode: 
+  Modified Barcode: INGCODUPL13DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه غراب 10 "
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+49. Row 73: بنسه بوز طويل 6"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HLNP08168
+  Original Barcode: 
+  Modified Barcode: INGCODUPL14DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه بوز طويل 6"
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+50. Row 74: بنسه 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP08208
+  Original Barcode: 6925582123180
+  Modified Barcode: 6925582123180DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه 8"
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+51. Row 75: بنسه 7"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCP08188
+  Original Barcode: 6925582123173
+  Modified Barcode: 6925582123173DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنسه 7"
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+52. Row 76: طقم بنسه 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: hkps08311
+  Original Barcode: 6941640124739
+  Modified Barcode: 6941640124739DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم بنسه 3 قطع
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+53. Row 78: طقم عده يدويه 168قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP21681
+  Original Barcode: 6942141809026
+  Modified Barcode: 6942141809026DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم عده يدويه 168قطعه
+  Location: يدوي / اطقم عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+54. Row 80: شاكوش خلاعه 220جرام
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCH81008D
+  Original Barcode: 6942141805516
+  Modified Barcode: 6942141805516DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شاكوش خلاعه 220جرام
+  Location: يدوي / شاكوش ومطرقة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+55. Row 83: طقم شنطه عده
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: PBXK0301
+  Original Barcode: 6941640156426
+  Modified Barcode: 6941640156426DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم شنطه عده
+  Location: يدوي / شنط عده
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+56. Row 87: مسدس سيلكون 2/1 هلال 9"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HCG1809
+  Original Barcode: 6941640189028
+  Modified Barcode: 6941640189028DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس سيلكون 2/1 هلال 9"
+  Location: يدوي / مسدس سليكون
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+57. Row 90: قطر بكره
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS16618
+  Original Barcode: 6925582128154
+  Modified Barcode: 6925582128154DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: قطر بكره
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+58. Row 91: قطر الومنيوم 19ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS11615
+  Original Barcode: 6941640178015
+  Modified Barcode: 6941640178015DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: قطر الومنيوم 19ملي
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+59. Row 92: قطر بلاستك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKNS16001
+  Original Barcode: 6941640153944
+  Modified Barcode: 6941640153944DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: قطر بلاستك
+  Location: يدوي / قطرات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+60. Row 94: طقم مفتاح ناحيه 8 قطع من 19-6
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKSPA1088-I
+  Original Barcode: 6925582116984
+  Modified Barcode: 6925582116984DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم مفتاح ناحيه 8 قطع من 19-6
+  Location: يدوي / مفاتيح
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+61. Row 97: جوانتي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HGPUG02
+  Original Barcode: 6941640198655
+  Modified Barcode: 6941640198655DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: جوانتي
+  Location: يدوي / جوانتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+62. Row 100: وصله بطاريه 600امبير3متر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HBTCP6008
+  Original Barcode: 
+  Modified Barcode: INGCODUPL15DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: وصله بطاريه 600امبير3متر
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+63. Row 101: كمبروسر سياره 2 بستم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AAC2508
+  Original Barcode: 6925582125672
+  Modified Barcode: 6925582125672DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: كمبروسر سياره 2 بستم
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+64. Row 102: مكنسه 12فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CVLI2026
+  Original Barcode: 6976051781820
+  Modified Barcode: 6976051781820DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مكنسه 12فولت
+  Location: يدوي / ادوات سيارات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+65. Row 105: مقص بولي صغير
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPCS05428
+  Original Barcode: 6941640165879
+  Modified Barcode: 6941640165879DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مقص بولي صغير
+  Location: يدوي / مقصات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+66. Row 106: مقص عقله 8"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HPS0201
+  Original Barcode: 
+  Modified Barcode: INGCODUPL16DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مقص عقله 8"
+  Location: يدوي / مقصات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+67. Row 111: بنط صليبى وصليبه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: SDBIM21PH233
+  Original Barcode: 6925582144482
+  Modified Barcode: 6925582144482DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بنط صليبى وصليبه
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+68. Row 113: بطاريه 12فولت تايب سي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FBLI12153
+  Original Barcode: 6976051781967
+  Modified Barcode: 6976051781967DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بطاريه 12فولت تايب سي
+  Location: اكسسوارات / قطع غيار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+69. Row 114: واحد بطاريه شنيور 12فولت تايب سي 20 نيوتن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI12456
+  Original Barcode: 
+  Modified Barcode: INGCODUPL17DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: واحد بطاريه شنيور 12فولت تايب سي 20 نيوتن
+  Location: اكسسوارات / قطع غيار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+70. Row 115: شاحن بطاريه 20
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FCLI2001
+  Original Barcode: 
+  Modified Barcode: INGCODUPL18DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شاحن بطاريه 20
+  Location: اكسسوارات / قطع غيار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+71. Row 116: بطاريه 20 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: FBLI20011
+  Original Barcode: 
+  Modified Barcode: INGCODUPL19DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بطاريه 20 فولت
+  Location: اكسسوارات / قطع غيار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+72. Row 117: وصله شاحن تايب سي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: IUCC01
+  Original Barcode: 6925582126204
+  Modified Barcode: 6925582126204DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: وصله شاحن تايب سي
+  Location: اكسسوارات / قطع غيار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+73. Row 119: طقم الماظه رخام 4.5قطعتين
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: DMD0111523
+  Original Barcode: 6925582153439
+  Modified Barcode: 6925582153439DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم الماظه رخام 4.5قطعتين
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+74. Row 120: الماظه رخام مفتوحه 7بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: DMD011802M
+  Original Barcode: 6925582124293
+  Modified Barcode: 6925582124293DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: الماظه رخام مفتوحه 7بوصه
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+75. Row 121: منشار حوائط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HWBSW628C
+  Original Barcode: 6925582147131
+  Modified Barcode: 6925582147131DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: منشار حوائط
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+76. Row 128: طقم عده 165قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP11651
+  Original Barcode: 
+  Modified Barcode: INGCODUPL20DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم عده 165قطعه
+  Location: بطاررية / اطقم كومبو
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+77. Row 129: طقم شنيور 66 وهليتي وصاروخ بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: COSLI241198
+  Original Barcode: 
+  Modified Barcode: INGCODUPL21DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم شنيور 66 وهليتي وصاروخ بطاريه وشاحن
+  Location: بطاررية / اطقم كومبو
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+78. Row 130: طقم شنطه شنيور 12 فولت 129 قطعه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HKTHP11291
+  Original Barcode: 36942141817794
+  Modified Barcode: 36942141817794DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم شنطه شنيور 12 فولت 129 قطعه
+  Location: بطاررية / اطقم كومبو
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+79. Row 132: شنيور مفك 4 فولت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CSDLI0442
+  Original Barcode: 6976051783046
+  Modified Barcode: 6976051783046DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور مفك 4 فولت
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+80. Row 133: شنيور 55نيوتن بطاريه وشاحن 2
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: cldli20558
+  Original Barcode: 6942141809835
+  Modified Barcode: 6942141809835DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 55نيوتن بطاريه وشاحن 2
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+81. Row 134: شنيور 12 فولت 2 بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI12206
+  Original Barcode: 6942141817465
+  Modified Barcode: 6942141817465DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 12 فولت 2 بطاريه
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+82. Row 135: شنيور 55نيوتن بطاريه وشاحن 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CDLI205582
+  Original Barcode: 6942141809385
+  Modified Barcode: 6942141809385DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: شنيور 55نيوتن بطاريه وشاحن 1
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+83. Row 136: طقم شنيور 20 فولت 66نيوتن مع دريل فك وربط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CKLI20286
+  Original Barcode: 6942141824500
+  Modified Barcode: 6942141824500DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم شنيور 20 فولت 66نيوتن مع دريل فك وربط
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+84. Row 137: دريل بطاريه نص 405نيوتن 2بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CIWLI2045
+  Original Barcode: 6942141814525
+  Modified Barcode: 6942141814525DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: دريل بطاريه نص 405نيوتن 2بطاريه
+  Location: بطاررية / شنيور وهيلتي ودريل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+85. Row 140: بلاور 20 فولت بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CABLI2078
+  Original Barcode: 6942141816413
+  Modified Barcode: 6942141816413DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بلاور 20 فولت بطاريه وشاحن
+  Location: بطاررية / بلاور وتسخين
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+86. Row 141: بلاور 20 فولت بدون
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CABLI20028
+  Original Barcode: 
+  Modified Barcode: INGCODUPL22DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: بلاور 20 فولت بدون
+  Location: بطاررية / بلاور وتسخين
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+87. Row 142: هزاز سيراميك بدون بطاريه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: ctvli2010
+  Original Barcode: 6976051788638
+  Modified Barcode: 6976051788638DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: هزاز سيراميك بدون بطاريه
+  Location: بطاررية / بلاور وتسخين
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+88. Row 148: طقم تجميع خرطوم نص بوصه 3 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HHCS03122
+  Original Barcode: 6925582108767
+  Modified Barcode: 6925582108767DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم تجميع خرطوم نص بوصه 3 قطع
+  Location: جاردن / رشاشات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+89. Row 154: مسدس غسيل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AWG1001
+  Original Barcode: 6925582115215
+  Modified Barcode: 6925582115215DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس غسيل
+  Location: جاردن / ماكن غسيل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+90. Row 155: مغسله 20 فولت بطاريه وشاحن 24 بار
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CPWLI20362
+  Original Barcode: 
+  Modified Barcode: INGCODUPL23DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مغسله 20 فولت بطاريه وشاحن 24 بار
+  Location: جاردن / ماكن غسيل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+91. Row 156: مسدس غسيل 20 فولت ا بطاريه وشاحن
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: CPWL120362
+  Original Barcode: 6942141813580
+  Modified Barcode: 6942141813580DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: مسدس غسيل 20 فولت ا بطاريه وشاحن
+  Location: جاردن / ماكن غسيل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+92. Row 160: متر 5*25
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39525
+  Original Barcode: 6941640161376
+  Modified Barcode: 6941640161376DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر 5*25
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+93. Row 161: متر فرامل 8*25
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39825
+  Original Barcode: 6941640153692
+  Modified Barcode: 6941640153692DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر فرامل 8*25
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+94. Row 162: متر كاوتش فرامل 3*16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT08316
+  Original Barcode: 6941640153067
+  Modified Barcode: 6941640153067DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر كاوتش فرامل 3*16
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+95. Row 163: متر 3*16بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39316
+  Original Barcode: 6941640158857
+  Modified Barcode: 6941640158857DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر 3*16بلاستيك
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+96. Row 164: متر 5 متر 19 مللي بلاستيك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT39519
+  Original Barcode: 6941640166531
+  Modified Barcode: 6941640166531DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر 5 متر 19 مللي بلاستيك
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+97. Row 165: متر 25*10 2 وش
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSMT081025
+  Original Barcode: 
+  Modified Barcode: INGCODUPL24DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر 25*10 2 وش
+  Location: وحدات قياس / امتار يدوي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+98. Row 167: متر ليزر 70 متر متر5متر كاوتش 32
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HLDD241201
+  Original Barcode: 
+  Modified Barcode: INGCODUPL25DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: متر ليزر 70 متر متر5متر كاوتش 32
+  Location: وحدات قياس / امتار ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+99. Row 170: ميزان مياه 3 عين 30 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSL08030
+  Original Barcode: 
+  Modified Barcode: INGCODUPL26DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: ميزان مياه 3 عين 30 سم
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+100. Row 171: ميزان مياه 3 عين 22 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HMSL01030
+  Original Barcode: 
+  Modified Barcode: INGCODUPL27DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: ميزان مياه 3 عين 22 سم
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+101. Row 175: دباسه مسمار 1*3
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: HSG1404
+  Original Barcode: 6925582140194
+  Modified Barcode: 6925582140194DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: دباسه مسمار 1*3
+  Location: هواء / دباسات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+102. Row 178: طقم كيت 5 قطع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: AKT0053
+  Original Barcode: 6941640129802
+  Modified Barcode: 6941640129802DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: INGCO brand
+  Conflicting Product: طقم كيت 5 قطع
+  Location: هواء / دهانات
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ PRODUCTS WITH AUTO-GENERATED BARCODE (28)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products had NO barcode in Excel. Barcode was auto-generated from hierarchy.
+
+1. Row 5: شنيور 450 وات
+  Code: ED45658
+  Generated Barcode: INGCO
+  Location: كهرباء / شنيور
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+2. Row 12: هيلتي تكسير 1300
+  Code: pDB13008
+  Generated Barcode: INGCODUPL1
+  Location: كهرباء / وهيلتي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+3. Row 15: بلاور 400
+  Code: AB4018
+  Generated Barcode: INGCODUPL2
+  Location: كهرباء / بلاور
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+4. Row 16: بلاور 650
+  Code: AB6038
+  Generated Barcode: INGCODUPL3
+  Location: كهرباء / بلاور
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+5. Row 20: مسدس تسخين 2000
+  Code: hg2000385
+  Generated Barcode: INGCODUPL4
+  Location: كهرباء / تسخين هوت جن
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+6. Row 23: مسدس رش كهرباء 450وات
+  Code: SPG3508
+  Generated Barcode: INGCODUPL5
+  Location: كهرباء / دهانات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+7. Row 29: صاروخ 9" 2200 وات
+  Code: AG220018
+  Generated Barcode: INGCODUPL6
+  Location: كهرباء / صاروخ
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+8. Row 32: اركت 400 وات
+  Code: JS400285
+  Generated Barcode: INGCODUPL7
+  Location: كهرباء / اركت
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+9. Row 33: اركت 570وات
+  Code: JS57028
+  Generated Barcode: INGCODUPL8
+  Location: كهرباء / اركت
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+10. Row 38: منشار صنيه 2200 وات 9"
+  Code: CS23522
+  Generated Barcode: INGCODUPL9
+  Location: كهرباء / صنية
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+11. Row 57: هزاز سراميك 20 فولت 1 بطاريه
+  Code: TTVLI20101
+  Generated Barcode: INGCODUPL10
+  Location: يدوي / ماكن سيراميك
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+12. Row 62: طقم لقم 46 قطعه
+  Code: hkts14462
+  Generated Barcode: INGCODUPL11
+  Location: يدوي / لقم ويد سيستم
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+13. Row 70: اكماشه نجار 8 بوصه
+  Code: HCPP02200
+  Generated Barcode: INGCODUPL12
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+14. Row 72: بنسه غراب 10 "
+  Code: HPP28258
+  Generated Barcode: INGCODUPL13
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+15. Row 73: بنسه بوز طويل 6"
+  Code: HLNP08168
+  Generated Barcode: INGCODUPL14
+  Location: يدوي / بنس كماشة فرنساوي انجليزي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+16. Row 100: وصله بطاريه 600امبير3متر
+  Code: HBTCP6008
+  Generated Barcode: INGCODUPL15
+  Location: يدوي / ادوات سيارات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+17. Row 106: مقص عقله 8"
+  Code: HPS0201
+  Generated Barcode: INGCODUPL16
+  Location: يدوي / مقصات
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+18. Row 114: واحد بطاريه شنيور 12فولت تايب سي 20 نيوتن
+  Code: CDLI12456
+  Generated Barcode: INGCODUPL17
+  Location: اكسسوارات / قطع غيار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+19. Row 115: شاحن بطاريه 20
+  Code: FCLI2001
+  Generated Barcode: INGCODUPL18
+  Location: اكسسوارات / قطع غيار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+20. Row 116: بطاريه 20 فولت
+  Code: FBLI20011
+  Generated Barcode: INGCODUPL19
+  Location: اكسسوارات / قطع غيار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+21. Row 128: طقم عده 165قطعه
+  Code: HKTHP11651
+  Generated Barcode: INGCODUPL20
+  Location: بطاررية / اطقم كومبو
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+22. Row 129: طقم شنيور 66 وهليتي وصاروخ بطاريه وشاحن
+  Code: COSLI241198
+  Generated Barcode: INGCODUPL21
+  Location: بطاررية / اطقم كومبو
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+23. Row 141: بلاور 20 فولت بدون
+  Code: CABLI20028
+  Generated Barcode: INGCODUPL22
+  Location: بطاررية / بلاور وتسخين
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+24. Row 155: مغسله 20 فولت بطاريه وشاحن 24 بار
+  Code: CPWLI20362
+  Generated Barcode: INGCODUPL23
+  Location: جاردن / ماكن غسيل
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+25. Row 165: متر 25*10 2 وش
+  Code: HSMT081025
+  Generated Barcode: INGCODUPL24
+  Location: وحدات قياس / امتار يدوي
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+26. Row 167: متر ليزر 70 متر متر5متر كاوتش 32
+  Code: HLDD241201
+  Generated Barcode: INGCODUPL25
+  Location: وحدات قياس / امتار ليزر
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+27. Row 170: ميزان مياه 3 عين 30 سم
+  Code: HSL08030
+  Generated Barcode: INGCODUPL26
+  Location: وحدات قياس / ميزان ليزر
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+28. Row 171: ميزان مياه 3 عين 22 سم
+  Code: HMSL01030
+  Generated Barcode: INGCODUPL27
+  Location: وحدات قياس / ميزان ليزر
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ PRODUCTS WITH MISSING COST (8)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+1. Row 16: بلاور 650
+  Code: AB6038
+  Location: كهرباء / بلاور
+
+2. Row 92: قطر بلاستك
+  Code: HKNS16001
+  Location: يدوي / قطرات
+
+3. Row 97: جوانتي
+  Code: HGPUG02
+  Location: يدوي / جوانتي
+
+4. Row 115: شاحن بطاريه 20
+  Code: FCLI2001
+  Location: اكسسوارات / قطع غيار
+
+5. Row 116: بطاريه 20 فولت
+  Code: FBLI20011
+  Location: اكسسوارات / قطع غيار
+
+6. Row 140: بلاور 20 فولت بطاريه وشاحن
+  Code: CABLI2078
+  Location: بطاررية / بلاور وتسخين
+
+7. Row 141: بلاور 20 فولت بدون
+  Code: CABLI20028
+  Location: بطاررية / بلاور وتسخين
+
+8. Row 165: متر 25*10 2 وش
+  Code: HSMT081025
+  Location: وحدات قياس / امتار يدوي
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+END OF REPORT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════

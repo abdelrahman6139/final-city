@@ -1,0 +1,1495 @@
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+BOSCH - COMPREHENSIVE DATA REPORT
+Generated: 2/12/2026, 7:53:11 AM
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📊 SUMMARY
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Total Rows Processed:                           65
+✅ Successfully Inserted:                        0
+❌ Insertion Errors:                             63
+❌ Skipped (No Name):                            0
+❌ Removed (Duplicate Codes in Excel):           2 products
+⭐ Auto-Generated Codes:                         0 products
+⭐ Barcodes Set to NULL (Duplicate in Excel):    0 products
+⭐ Barcodes Auto-Generated (Empty in Excel):     22 products
+⚠️  Barcodes Modified (Cross-Brand Conflict):    63 products (added DUPL suffix)
+📁 Empty ItemTypes Created:                      41
+
+📐 CALCULATION:
+  65 (total rows)
+  - 0 (no name)
+  - 2 (duplicate codes removed)
+  ───────────
+  = 63 (expected to insert)
+  - 63 (insertion errors)
+  ───────────
+  = 0 (actually inserted)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PRODUCT COUNTS BY HIERARCHY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📦 CATEGORIES:
+  BOSCH: 63 products
+
+📂 SUBCATEGORIES:
+  BOSCH > كهرباء: 15 products
+  BOSCH > اكسسوارات: 39 products
+  BOSCH > بطاررية: 1 products
+  BOSCH > جاردن: 2 products
+  BOSCH > وحدات قياس: 6 products
+
+📁 ITEM TYPES (All):
+  BOSCH > اكسسوارات > بنط: 20 products
+  BOSCH > اكسسوارات > احجار: 12 products
+  BOSCH > اكسسوارات > صنية والماظة: 6 products
+  BOSCH > كهرباء > صاروخ: 4 products
+  BOSCH > كهرباء > وهيلتي: 3 products
+  BOSCH > وحدات قياس > امتار ليزر: 3 products
+  BOSCH > وحدات قياس > ميزان ليزر: 3 products
+  BOSCH > كهرباء > شنيور: 2 products
+  BOSCH > كهرباء > بلاور: 2 products
+  BOSCH > جاردن > ماكن غسيل: 2 products
+  BOSCH > كهرباء > تسخين هوت جن: 1 products
+  BOSCH > كهرباء > اركت: 1 products
+  BOSCH > كهرباء > ديسك: 1 products
+  BOSCH > كهرباء > صنفرة: 1 products
+  BOSCH > اكسسوارات > صنفرة: 1 products
+  BOSCH > بطاررية > شنيور وهيلتي: 1 products
+  BOSCH > كهرباء > راوتر: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > صنية: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > فارة: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > ماكن جلخ: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > ماكن لحام  قصدير: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > ماكن لحام  بولي: 0 products ⭐ EMPTY
+  BOSCH > كهرباء > ماكن لحام حديد: 0 products ⭐ EMPTY
+  BOSCH > يدوي > مفكات: 0 products ⭐ EMPTY
+  BOSCH > يدوي > لقم ويد سيستم: 0 products ⭐ EMPTY
+  BOSCH > يدوي > بنس: 0 products ⭐ EMPTY
+  BOSCH > يدوي > اطقم عده: 0 products ⭐ EMPTY
+  BOSCH > يدوي > شاكوش ومطرقة: 0 products ⭐ EMPTY
+  BOSCH > يدوي > اطقم الن: 0 products ⭐ EMPTY
+  BOSCH > يدوي > شنط عده: 0 products ⭐ EMPTY
+  BOSCH > يدوي > قمطة وزرجينة: 0 products ⭐ EMPTY
+  BOSCH > يدوي > اجنة ومسمار يدوي: 0 products ⭐ EMPTY
+  BOSCH > يدوي > منشار خشابي وحدادي: 0 products ⭐ EMPTY
+  BOSCH > يدوي > قطرات: 0 products ⭐ EMPTY
+  BOSCH > يدوي > مفاتيح: 0 products ⭐ EMPTY
+  BOSCH > يدوي > بوكليز: 0 products ⭐ EMPTY
+  BOSCH > يدوي > جوانتي: 0 products ⭐ EMPTY
+  BOSCH > يدوي > ادوات سيارات: 0 products ⭐ EMPTY
+  BOSCH > يدوي > ازميل: 0 products ⭐ EMPTY
+  BOSCH > يدوي > مقصات: 0 products ⭐ EMPTY
+  BOSCH > يدوي > دباسة خشب: 0 products ⭐ EMPTY
+  BOSCH > يدوي > ادوات دهانات: 0 products ⭐ EMPTY
+  BOSCH > اكسسوارات > قطع غيار: 0 products ⭐ EMPTY
+  BOSCH > اكسسوارات > فرش: 0 products ⭐ EMPTY
+  BOSCH > بطاررية > بلاور وتسخين: 0 products ⭐ EMPTY
+  BOSCH > بطاررية > صاروخ: 0 products ⭐ EMPTY
+  BOSCH > بطاررية > صنية: 0 products ⭐ EMPTY
+  BOSCH > جاردن > رشاشات: 0 products ⭐ EMPTY
+  BOSCH > جاردن > خراطيم: 0 products ⭐ EMPTY
+  BOSCH > جاردن > مقصات زرع: 0 products ⭐ EMPTY
+  BOSCH > جاردن > ماكن قص نجيلة: 0 products ⭐ EMPTY
+  BOSCH > جاردن > مناشير زراعية: 0 products ⭐ EMPTY
+  BOSCH > وحدات قياس > امتار يدوي: 0 products ⭐ EMPTY
+  BOSCH > وحدات قياس > ميزان مياه: 0 products ⭐ EMPTY
+  BOSCH > وحدات قياس > زاوية علام: 0 products ⭐ EMPTY
+  BOSCH > هواء > دباسات: 0 products ⭐ EMPTY
+  BOSCH > هواء > دريل: 0 products ⭐ EMPTY
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ EMPTY ITEM TYPES CREATED - 41
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These ItemTypes were found in Excel but have NO products.
+They were created in the database structure.
+
+1. BOSCH > كهرباء > راوتر
+2. BOSCH > كهرباء > صنية
+3. BOSCH > كهرباء > فارة
+4. BOSCH > كهرباء > ماكن جلخ
+5. BOSCH > كهرباء > ماكن لحام  قصدير
+6. BOSCH > كهرباء > ماكن لحام  بولي
+7. BOSCH > كهرباء > ماكن لحام حديد
+8. BOSCH > يدوي > مفكات
+9. BOSCH > يدوي > لقم ويد سيستم
+10. BOSCH > يدوي > بنس
+11. BOSCH > يدوي > اطقم عده
+12. BOSCH > يدوي > شاكوش ومطرقة
+13. BOSCH > يدوي > اطقم الن
+14. BOSCH > يدوي > شنط عده
+15. BOSCH > يدوي > قمطة وزرجينة
+16. BOSCH > يدوي > اجنة ومسمار يدوي
+17. BOSCH > يدوي > منشار خشابي وحدادي
+18. BOSCH > يدوي > قطرات
+19. BOSCH > يدوي > مفاتيح
+20. BOSCH > يدوي > بوكليز
+21. BOSCH > يدوي > جوانتي
+22. BOSCH > يدوي > ادوات سيارات
+23. BOSCH > يدوي > ازميل
+24. BOSCH > يدوي > مقصات
+25. BOSCH > يدوي > دباسة خشب
+26. BOSCH > يدوي > ادوات دهانات
+27. BOSCH > اكسسوارات > قطع غيار
+28. BOSCH > اكسسوارات > فرش
+29. BOSCH > بطاررية > بلاور وتسخين
+30. BOSCH > بطاررية > صاروخ
+31. BOSCH > بطاررية > صنية
+32. BOSCH > جاردن > رشاشات
+33. BOSCH > جاردن > خراطيم
+34. BOSCH > جاردن > مقصات زرع
+35. BOSCH > جاردن > ماكن قص نجيلة
+36. BOSCH > جاردن > مناشير زراعية
+37. BOSCH > وحدات قياس > امتار يدوي
+38. BOSCH > وحدات قياس > ميزان مياه
+39. BOSCH > وحدات قياس > زاوية علام
+40. BOSCH > هواء > دباسات
+41. BOSCH > هواء > دريل
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+MISSING FIELDS SUMMARY
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ Products with AUTO-GENERATED CODE:             9
+⭐ Products with AUTO-GENERATED BARCODE:          22
+ℹ️  Products with ZERO quantity:                  10
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+❌ INSERTION ERRORS - 63 PRODUCTS FAILED TO INSERT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products passed validation but failed during database insertion.
+
+1. Row 5: شنيور 750 وات RE16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06012281K1
+  Barcode: 3165140691864
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+2. Row 6: شنيور 600 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06011A03KA
+  Barcode: 4053423240290
+  Location: كهرباء / شنيور
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+3. Row 8: هيلتي عدل GBH 220
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A6020
+  Barcode: 3165140992596
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+4. Row 9: هليتي عدل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A4001
+  Barcode: 3165140859219
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+5. Row 10: هليتي عدل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A4000
+  Barcode: 3165140859202
+  Location: كهرباء / وهيلتي
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+6. Row 12: بلاور 820
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601980490
+  Barcode: 3165140468299
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+7. Row 13: بلاور 650
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06019M40K0
+  Barcode: 4053423245721
+  Location: كهرباء / بلاور
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+8. Row 15: مسدس تسخين 1800 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 060194D020
+  Barcode: 3165140939287
+  Location: كهرباء / تسخين هوت جن
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+9. Row 17: صاروخ 9"2200وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06018C10K0
+  Barcode: 3165140972772
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+10. Row 18: صاروخ 4.5 "710 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06013A30K0
+  Barcode: 4059952506746
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+11. Row 19: صاروخ 5" 900 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06013960K7
+  Barcode: 3165140899659
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+12. Row 20: صاروخ 1400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601824800
+  Barcode: 3165140394475
+  Location: كهرباء / صاروخ
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+13. Row 22: اركت 450
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06015A8000
+  Barcode: 3165140940214
+  Location: كهرباء / اركت
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+14. Row 26: ديسك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: gco220
+  Barcode: NULL
+  Location: كهرباء / ديسك
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+15. Row 29: صنفره هزاز 190وات Gss 2300
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06012980K0
+  Barcode: 3165140784009
+  Location: كهرباء / صنفرة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+16. Row 56: شنطة بنط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2607019327
+  Barcode: 3165140379502
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+17. Row 57: علبه بنط شنيور
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608522186
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+18. Row 58: علبه بنط شنيور 2 كارت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608521042
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+19. Row 59: بنط10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 260359106S7
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+20. Row 60: بنط13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577298
+  Barcode: 3165140908078
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+21. Row 61: بنط7مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577238
+  Barcode: 3165140907477
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+22. Row 62: بنط11مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577278
+  Barcode: 3165140907873
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+23. Row 63: بنط9مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577258
+  Barcode: 3165140907675
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+24. Row 64: بنط 3مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585876
+  Barcode: 3165140521116
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+25. Row 65: بنط 5مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577218
+  Barcode: 3165140907279
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+26. Row 66: بنط 5مم استانلس
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585885
+  Barcode: 3165140521208
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+27. Row 67: بنط 4 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585880
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+28. Row 68: بنطه 8 علبه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577248
+  Barcode: 3165140907576
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+29. Row 69: بنطه هيلتي 12 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579434
+  Barcode: 3165140985567
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+30. Row 70: بنطه هيلتي 10 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579430
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+31. Row 71: بنطه هيلتي 8 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579425
+  Barcode: 3165140985475
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+32. Row 72: بنط م6لي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577228
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+33. Row 73: بنط 3 ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577198
+  Barcode: NULL
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+34. Row 74: بنط 4 ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577208
+  Barcode: 3165140907170
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+35. Row 75: بنطة 10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585898
+  Barcode: 3165140521338
+  Location: اكسسوارات / بنط
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+36. Row 78: الماظه خشب 5"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: F03FS02470
+  Barcode: NULL
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+37. Row 79: سلاح اركت حدادي x5 T118
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608631013
+  Barcode: NULL
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+38. Row 80: سلاح اركت خشابي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608630040
+  Barcode: NULL
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+39. Row 81: الماظه رخام 7"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608615030
+  Barcode: 3165140857079
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+40. Row 82: فرويد 96 سنه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: F03FS05093-30
+  Barcode: NULL
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+41. Row 83: الماظه 7وربع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608644400
+  Barcode: NULL
+  Location: اكسسوارات / صنية والماظة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+42. Row 86: حجر قطعيه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600221
+  Barcode: 3165140116428
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+43. Row 87: حجر 4.5بسكوته صيني اخضر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608619383
+  Barcode: 4059952524764
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+44. Row 88: حجر قطعيه 5"صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603160
+  Barcode: NULL
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+45. Row 89: حجر بسكوته 9"سلفاتي فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600096
+  Barcode: 3165140070928
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+46. Row 90: حجر جلخ 7"صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603183
+  Barcode: 3165140658409
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+47. Row 91: حجر قطعيه 7" بمباي صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603161
+  Barcode: NULL
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+48. Row 92: حجر جلخ 9"بمباي فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603184
+  Barcode: 3165140658416
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+49. Row 93: حجر بسكوته 9"صيني فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608619770
+  Barcode: 4059952631370
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+50. Row 94: حجر قطعيه 9"سلفاني بمباي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600226
+  Barcode: 3165140116473
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+51. Row 95: حجر بسكوته بمباي 9 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608601514
+  Barcode: NULL
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+52. Row 96: حجر قطعيه سلفاني بمباي5 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2601113765
+  Barcode: NULL
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+53. Row 97: حجر بسكوته
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600549
+  Barcode: NULL
+  Location: اكسسوارات / احجار
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+54. Row 100: صنفره مروحيه4.5"خشانه 60 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608601708
+  Barcode: 3165140933902
+  Location: اكسسوارات / صنفرة
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+55. Row 104: دريل بطاريه 18 فولت GSB 183LI
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06019K91K0
+  Barcode: 4059952599038
+  Location: بطاررية / شنيور وهيلتي
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+56. Row 114: ماكينه غسيل 1500 بار 125
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06008A7A00
+  Barcode: NULL
+  Location: جاردن / ماكن غسيل
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+57. Row 115: ماكينه غسيل 1100بار 100
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06008A7E01
+  Barcode: NULL
+  Location: جاردن / ماكن غسيل
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+58. Row 120: متر ليز 50 Glm 50-22
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601072S00
+  Barcode: 4059952518800
+  Location: وحدات قياس / امتار ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+59. Row 121: متر ليزر GLM25_23
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601072W00
+  Barcode: NULL
+  Location: وحدات قياس / امتار ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+60. Row 122: متر ليز 40 Glm 40
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601072900
+  Barcode: NULL
+  Location: وحدات قياس / امتار ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+61. Row 125: ميزان ليزر 2
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601065320
+  Barcode: 4053423244212
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+62. Row 126: ميزان ليزر 3
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601063CJ0
+  Barcode: 3165140739429
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+63. Row 127: حامل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601096B00
+  Barcode: 3165140807838
+  Location: وحدات قياس / ميزان ليزر
+  ❌ ERROR: Code already exists in BOSCH
+  ⚠️  CONFLICT WITH: BOSCH brand (same code already exists)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ CROSS-BRAND BARCODE CONFLICTS - 63 FOUND
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products have barcodes that already exist in OTHER brands.
+The barcode was MODIFIED by adding "DUPL" suffix.
+
+1. Row 5: شنيور 750 وات RE16
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06012281K1
+  Original Barcode: 3165140691864
+  Modified Barcode: 3165140691864DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: شنيور 750 وات RE16
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+2. Row 6: شنيور 600 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06011A03KA
+  Original Barcode: 4053423240290
+  Modified Barcode: 4053423240290DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: شنيور 600 وات
+  Location: كهرباء / شنيور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+3. Row 8: هيلتي عدل GBH 220
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A6020
+  Original Barcode: 3165140992596
+  Modified Barcode: 3165140992596DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: هيلتي عدل GBH 220
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+4. Row 9: هليتي عدل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A4001
+  Original Barcode: 3165140859219
+  Modified Barcode: 3165140859219DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: هليتي عدل
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+5. Row 10: هليتي عدل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06112A4000
+  Original Barcode: 3165140859202
+  Modified Barcode: 3165140859202DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: هليتي عدل
+  Location: كهرباء / وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+6. Row 12: بلاور 820
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601980490
+  Original Barcode: 3165140468299
+  Modified Barcode: 3165140468299DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بلاور 820
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+7. Row 13: بلاور 650
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06019M40K0
+  Original Barcode: 4053423245721
+  Modified Barcode: 4053423245721DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بلاور 650
+  Location: كهرباء / بلاور
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+8. Row 15: مسدس تسخين 1800 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 060194D020
+  Original Barcode: 3165140939287
+  Modified Barcode: 3165140939287DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: مسدس تسخين 1800 وات
+  Location: كهرباء / تسخين هوت جن
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+9. Row 17: صاروخ 9"2200وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06018C10K0
+  Original Barcode: 3165140972772
+  Modified Barcode: 3165140972772DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صاروخ 9"2200وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+10. Row 18: صاروخ 4.5 "710 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06013A30K0
+  Original Barcode: 4059952506746
+  Modified Barcode: 4059952506746DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صاروخ 4.5 "710 وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+11. Row 19: صاروخ 5" 900 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06013960K7
+  Original Barcode: 3165140899659
+  Modified Barcode: 3165140899659DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صاروخ 5" 900 وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+12. Row 20: صاروخ 1400 وات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601824800
+  Original Barcode: 3165140394475
+  Modified Barcode: 3165140394475DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صاروخ 1400 وات
+  Location: كهرباء / صاروخ
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+13. Row 22: اركت 450
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06015A8000
+  Original Barcode: 3165140940214
+  Modified Barcode: 3165140940214DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: اركت 450
+  Location: كهرباء / اركت
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+14. Row 26: ديسك
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: gco220
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: ديسك
+  Location: كهرباء / ديسك
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+15. Row 29: صنفره هزاز 190وات Gss 2300
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06012980K0
+  Original Barcode: 3165140784009
+  Modified Barcode: 3165140784009DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صنفره هزاز 190وات Gss 2300
+  Location: كهرباء / صنفرة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+16. Row 56: شنطة بنط
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2607019327
+  Original Barcode: 3165140379502
+  Modified Barcode: 3165140379502DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: شنطة بنط
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+17. Row 57: علبه بنط شنيور
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608522186
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL1DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: علبه بنط شنيور
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+18. Row 58: علبه بنط شنيور 2 كارت
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608521042
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL2DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: علبه بنط شنيور 2 كارت
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+19. Row 59: بنط10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 260359106S7
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL3DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط10مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+20. Row 60: بنط13مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577298
+  Original Barcode: 3165140908078
+  Modified Barcode: 3165140908078DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط13مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+21. Row 61: بنط7مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577238
+  Original Barcode: 3165140907477
+  Modified Barcode: 3165140907477DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط7مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+22. Row 62: بنط11مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577278
+  Original Barcode: 3165140907873
+  Modified Barcode: 3165140907873DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط11مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+23. Row 63: بنط9مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577258
+  Original Barcode: 3165140907675
+  Modified Barcode: 3165140907675DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط9مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+24. Row 64: بنط 3مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585876
+  Original Barcode: 3165140521116
+  Modified Barcode: 3165140521116DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 3مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+25. Row 65: بنط 5مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577218
+  Original Barcode: 3165140907279
+  Modified Barcode: 3165140907279DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 5مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+26. Row 66: بنط 5مم استانلس
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585885
+  Original Barcode: 3165140521208
+  Modified Barcode: 3165140521208DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 5مم استانلس
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+27. Row 67: بنط 4 مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585880
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL4DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 4 مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+28. Row 68: بنطه 8 علبه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577248
+  Original Barcode: 3165140907576
+  Modified Barcode: 3165140907576DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنطه 8 علبه
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+29. Row 69: بنطه هيلتي 12 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579434
+  Original Barcode: 3165140985567
+  Modified Barcode: 3165140985567DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنطه هيلتي 12 مم بلس 1
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+30. Row 70: بنطه هيلتي 10 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579430
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL5DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنطه هيلتي 10 مم بلس 1
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+31. Row 71: بنطه هيلتي 8 مم بلس 1
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608579425
+  Original Barcode: 3165140985475
+  Modified Barcode: 3165140985475DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنطه هيلتي 8 مم بلس 1
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+32. Row 72: بنط م6لي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577228
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL6DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط م6لي
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+33. Row 73: بنط 3 ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577198
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL7DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 3 ملي
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+34. Row 74: بنط 4 ملي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608577208
+  Original Barcode: 3165140907170
+  Modified Barcode: 3165140907170DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنط 4 ملي
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+35. Row 75: بنطة 10مم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608585898
+  Original Barcode: 3165140521338
+  Modified Barcode: 3165140521338DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: بنطة 10مم
+  Location: اكسسوارات / بنط
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+36. Row 78: الماظه خشب 5"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: F03FS02470
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL8DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: الماظه خشب 5"
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+37. Row 79: سلاح اركت حدادي x5 T118
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608631013
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL9DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: سلاح اركت حدادي x5 T118
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+38. Row 80: سلاح اركت خشابي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608630040
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL10DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: سلاح اركت خشابي
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+39. Row 81: الماظه رخام 7"
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608615030
+  Original Barcode: 3165140857079
+  Modified Barcode: 3165140857079DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: الماظه رخام 7"
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+40. Row 82: فرويد 96 سنه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: F03FS05093-30
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL11DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: فرويد 96 سنه
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+41. Row 83: الماظه 7وربع
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608644400
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL12DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: الماظه 7وربع
+  Location: اكسسوارات / صنية والماظة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+42. Row 86: حجر قطعيه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600221
+  Original Barcode: 3165140116428
+  Modified Barcode: 3165140116428DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر قطعيه
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+43. Row 87: حجر 4.5بسكوته صيني اخضر
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608619383
+  Original Barcode: 4059952524764
+  Modified Barcode: 4059952524764DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر 4.5بسكوته صيني اخضر
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+44. Row 88: حجر قطعيه 5"صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603160
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL13DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر قطعيه 5"صيني
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+45. Row 89: حجر بسكوته 9"سلفاتي فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600096
+  Original Barcode: 3165140070928
+  Modified Barcode: 3165140070928DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر بسكوته 9"سلفاتي فلات
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+46. Row 90: حجر جلخ 7"صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603183
+  Original Barcode: 3165140658409
+  Modified Barcode: 3165140658409DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر جلخ 7"صيني
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+47. Row 91: حجر قطعيه 7" بمباي صيني
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603161
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL14DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر قطعيه 7" بمباي صيني
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+48. Row 92: حجر جلخ 9"بمباي فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608603184
+  Original Barcode: 3165140658416
+  Modified Barcode: 3165140658416DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر جلخ 9"بمباي فلات
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+49. Row 93: حجر بسكوته 9"صيني فلات
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608619770
+  Original Barcode: 4059952631370
+  Modified Barcode: 4059952631370DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر بسكوته 9"صيني فلات
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+50. Row 94: حجر قطعيه 9"سلفاني بمباي
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600226
+  Original Barcode: 3165140116473
+  Modified Barcode: 3165140116473DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر قطعيه 9"سلفاني بمباي
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+51. Row 95: حجر بسكوته بمباي 9 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608601514
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL15DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر بسكوته بمباي 9 بوصه
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+52. Row 96: حجر قطعيه سلفاني بمباي5 بوصه
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2601113765
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL16DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر قطعيه سلفاني بمباي5 بوصه
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+53. Row 97: حجر بسكوته
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608600549
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL17DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حجر بسكوته
+  Location: اكسسوارات / احجار
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+54. Row 100: صنفره مروحيه4.5"خشانه 60 سم
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 2608601708
+  Original Barcode: 3165140933902
+  Modified Barcode: 3165140933902DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: صنفره مروحيه4.5"خشانه 60 سم
+  Location: اكسسوارات / صنفرة
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+55. Row 104: دريل بطاريه 18 فولت GSB 183LI
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06019K91K0
+  Original Barcode: 4059952599038
+  Modified Barcode: 4059952599038DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: دريل بطاريه 18 فولت GSB 183LI
+  Location: بطاررية / شنيور وهيلتي
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+56. Row 114: ماكينه غسيل 1500 بار 125
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06008A7A00
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL19DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: ماكينه غسيل 1500 بار 125
+  Location: جاردن / ماكن غسيل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+57. Row 115: ماكينه غسيل 1100بار 100
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 06008A7E01
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL20DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: ماكينه غسيل 1100بار 100
+  Location: جاردن / ماكن غسيل
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+58. Row 120: متر ليز 50 Glm 50-22
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601072S00
+  Original Barcode: 4059952518800
+  Modified Barcode: 4059952518800DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: متر ليز 50 Glm 50-22
+  Location: وحدات قياس / امتار ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+59. Row 121: متر ليزر GLM25_23
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601072W00
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL21DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: متر ليزر GLM25_23
+  Location: وحدات قياس / امتار ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+60. Row 122: متر ليز 40 Glm 40
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601072900
+  Original Barcode: 
+  Modified Barcode: BOSCHDUPL22DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: متر ليز 40 Glm 40
+  Location: وحدات قياس / امتار ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+61. Row 125: ميزان ليزر 2
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 601065320
+  Original Barcode: 4053423244212
+  Modified Barcode: 4053423244212DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: ميزان ليزر 2
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+62. Row 126: ميزان ليزر 3
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601063CJ0
+  Original Barcode: 3165140739429
+  Modified Barcode: 3165140739429DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: ميزان ليزر 3
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+63. Row 127: حامل
+  ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Code: 0601096B00
+  Original Barcode: 3165140807838
+  Modified Barcode: 3165140807838DUPL
+  ⚠️  DUPLICATE BARCODE FOUND IN: BOSCH brand
+  Conflicting Product: حامل
+  Location: وحدات قياس / ميزان ليزر
+  ✅ ACTION TAKEN: Added "DUPL" suffix to barcode, product inserted
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+❌ DUPLICATE CODES IN EXCEL - 1 FOUND (ALL PRODUCTS REMOVED)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: When CODE is duplicated within the Excel sheet, ALL products with that code are REMOVED.
+CODE must be unique - it is the primary identifier.
+
+❌ CODE: 2608619768 (used 2 times - ALL 2 PRODUCTS REMOVED)
+  1. Row 85: حجر بسكوته 5" صيني فلات
+     Barcode: 4059952631356
+     Location: اكسسوارات / احجار
+  2. Row 98: حجربسكونه 5بوصه
+     Barcode: EMPTY
+     Location: اكسسوارات / احجار
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⭐ PRODUCTS WITH AUTO-GENERATED BARCODE (22)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+NOTE: These products had NO barcode in Excel. Barcode was auto-generated from hierarchy.
+
+1. Row 26: ديسك
+  Code: gco220
+  Generated Barcode: BOSCH
+  Location: كهرباء / ديسك
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+2. Row 57: علبه بنط شنيور
+  Code: 2608522186
+  Generated Barcode: BOSCHDUPL1
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+3. Row 58: علبه بنط شنيور 2 كارت
+  Code: 2608521042
+  Generated Barcode: BOSCHDUPL2
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+4. Row 59: بنط10مم
+  Code: 260359106S7
+  Generated Barcode: BOSCHDUPL3
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+5. Row 67: بنط 4 مم
+  Code: 2608585880
+  Generated Barcode: BOSCHDUPL4
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+6. Row 70: بنطه هيلتي 10 مم بلس 1
+  Code: 2608579430
+  Generated Barcode: BOSCHDUPL5
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+7. Row 72: بنط م6لي
+  Code: 2608577228
+  Generated Barcode: BOSCHDUPL6
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+8. Row 73: بنط 3 ملي
+  Code: 2608577198
+  Generated Barcode: BOSCHDUPL7
+  Location: اكسسوارات / بنط
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+9. Row 78: الماظه خشب 5"
+  Code: F03FS02470
+  Generated Barcode: BOSCHDUPL8
+  Location: اكسسوارات / صنية والماظة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+10. Row 79: سلاح اركت حدادي x5 T118
+  Code: 2608631013
+  Generated Barcode: BOSCHDUPL9
+  Location: اكسسوارات / صنية والماظة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+11. Row 80: سلاح اركت خشابي
+  Code: 2608630040
+  Generated Barcode: BOSCHDUPL10
+  Location: اكسسوارات / صنية والماظة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+12. Row 82: فرويد 96 سنه
+  Code: F03FS05093-30
+  Generated Barcode: BOSCHDUPL11
+  Location: اكسسوارات / صنية والماظة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+13. Row 83: الماظه 7وربع
+  Code: 2608644400
+  Generated Barcode: BOSCHDUPL12
+  Location: اكسسوارات / صنية والماظة
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+14. Row 88: حجر قطعيه 5"صيني
+  Code: 2608603160
+  Generated Barcode: BOSCHDUPL13
+  Location: اكسسوارات / احجار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+15. Row 91: حجر قطعيه 7" بمباي صيني
+  Code: 2608603161
+  Generated Barcode: BOSCHDUPL14
+  Location: اكسسوارات / احجار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+16. Row 95: حجر بسكوته بمباي 9 بوصه
+  Code: 2608601514
+  Generated Barcode: BOSCHDUPL15
+  Location: اكسسوارات / احجار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+17. Row 96: حجر قطعيه سلفاني بمباي5 بوصه
+  Code: 2601113765
+  Generated Barcode: BOSCHDUPL16
+  Location: اكسسوارات / احجار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+18. Row 97: حجر بسكوته
+  Code: 2608600549
+  Generated Barcode: BOSCHDUPL17
+  Location: اكسسوارات / احجار
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+19. Row 114: ماكينه غسيل 1500 بار 125
+  Code: 06008A7A00
+  Generated Barcode: BOSCHDUPL19
+  Location: جاردن / ماكن غسيل
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+20. Row 115: ماكينه غسيل 1100بار 100
+  Code: 06008A7E01
+  Generated Barcode: BOSCHDUPL20
+  Location: جاردن / ماكن غسيل
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+21. Row 121: متر ليزر GLM25_23
+  Code: 0601072W00
+  Generated Barcode: BOSCHDUPL21
+  Location: وحدات قياس / امتار ليزر
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+22. Row 122: متر ليز 40 Glm 40
+  Code: 601072900
+  Generated Barcode: BOSCHDUPL22
+  Location: وحدات قياس / امتار ليزر
+  ✅ STATUS: INSERTED WITH AUTO-GENERATED BARCODE
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+⚠️ PRODUCTS WITH MISSING COST (9)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+1. Row 9: هليتي عدل
+  Code: 06112A4001
+  Location: كهرباء / وهيلتي
+
+2. Row 10: هليتي عدل
+  Code: 06112A4000
+  Location: كهرباء / وهيلتي
+
+3. Row 59: بنط10مم
+  Code: 260359106S7
+  Location: اكسسوارات / بنط
+
+4. Row 68: بنطه 8 علبه
+  Code: 2608577248
+  Location: اكسسوارات / بنط
+
+5. Row 75: بنطة 10مم
+  Code: 2608585898
+  Location: اكسسوارات / بنط
+
+6. Row 80: سلاح اركت خشابي
+  Code: 2608630040
+  Location: اكسسوارات / صنية والماظة
+
+7. Row 95: حجر بسكوته بمباي 9 بوصه
+  Code: 2608601514
+  Location: اكسسوارات / احجار
+
+8. Row 96: حجر قطعيه سلفاني بمباي5 بوصه
+  Code: 2601113765
+  Location: اكسسوارات / احجار
+
+9. Row 121: متر ليزر GLM25_23
+  Code: 0601072W00
+  Location: وحدات قياس / امتار ليزر
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+END OF REPORT
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
